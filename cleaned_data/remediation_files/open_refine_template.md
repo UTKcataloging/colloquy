@@ -18,6 +18,14 @@
 <title>Colloquy</title>
 {{ if(cells.name_1_name.value != "NULL", '<name type="personal"' + if(cells.name_1_uri.value != "NULL", ' authority="lcnaf" valueURI="' + cells.name_1_uri.value + '"', '') + '><namePart>' + cells.name_1_name.value + '</namePart></name>', '')}}
 </titleInfo>
+<originInfo><dateCreated encoding="edtf" keyDate="yes" point="start">
+{{cells.machine_date.value}}
+</dateCreated></originInfo>
+<abstract>{{cells.abstract.value}}</abstract>
+<physicalDescription><extent unit=”pages”>4</extent>
+<form>newsletters</form></physicalDescription>
+{{if(cells.public_note.value != "NULL", "<note>" + cells.public_note.value + "</note>", "")}}
+
 
 
 </mods>
