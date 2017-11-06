@@ -19,10 +19,11 @@
 
 <titleInfo type="alternative" displayLabel="Also known as">
 <title>Colloquy</title>
+</titleInfo>
+
 
 {{ if(cells.name_1_name.value != "NULL", '<name type="personal"' + if(cells.name_1_uri.value != "NULL", ' authority="lcnaf" valueURI="' + cells.name_1_uri.value + '"', '') + '><namePart>' + cells.name_1_name.value + '</namePart></name>', '')}}
 
-</titleInfo>
 
 <originInfo>
 <dateCreated encoding="edtf" keyDate="yes" point="start">
@@ -35,7 +36,7 @@
 
 <physicalDescription>
 <extent unit=”pages”>4</extent>
-<form> <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
+ <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
 newsletters</form>
 <internetMediaType>application/pdf</internetMediaType>
 
@@ -56,7 +57,9 @@ newsletters</form>
 <relatedItem displayLabel="Project" type="host"> 
 <location><url>https://digital.lib.utk.edu/collections/colloquy
 </url>
-</location>
+</location> 
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
 </relatedItem>
 
 <accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
@@ -64,7 +67,11 @@ In Copyright
 </accessCondition>
 
 
-
+{{ if (cells.name_2_name.value != "NULL",
+"<name" +if(cells.name_2_uri.value != "NULL",
+' authority="lcna" valueURI="'+cells.name_2_uri.value + '"', "") +
+'><namePart>' + cells.name_2_name.value + '</namePart> ' +
+if (cells.name_2_role.value != "NULL" , '<role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> ' + cells.name_2_role.value + '</roleTerm> </role> ', "") + '</name>', "")}}
 
 
 </mods>
