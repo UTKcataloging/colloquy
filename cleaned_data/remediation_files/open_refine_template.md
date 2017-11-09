@@ -22,9 +22,6 @@
 </titleInfo>
 
 
-{{ if(cells.name_1_name.value != "NULL", '<name type="personal"' + if(cells.name_1_uri.value != "NULL", ' authority="lcnaf" valueURI="' + cells.name_1_uri.value + '"', '') + '><namePart>' + cells.name_1_name.value + '</namePart></name>', '')}}
-
-
 <originInfo>
 <dateCreated encoding="edtf" keyDate="yes" point="start">
 {{cells.machine_date.value}}
@@ -73,6 +70,22 @@ In Copyright
 '><namePart>' + cells.name_2_name.value + '</namePart> ' +
 if (cells.name_2_role.value != "NULL" , '<role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> ' + cells.name_2_role.value + '</roleTerm> </role> ', "") + '</name>', "")}}
 
+{{ if (cells.name_1_name.value != "NULL",
+"<name" +if(cells.name_1_uri.value != "NULL",
+' authority="lcna" valueURI="'+cells.name_1_uri.value + '"', "") +
+'><namePart>' + cells.name_1_name.value + '</namePart> ' +
+if (cells.name_1_role.value != "NULL" , '<role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> ' + cells.name_1_role.value + '</roleTerm> </role> ', "") + '</name>', "")}}
+
+{{ if (cells.name_3_name.value != "NULL",
+"<name" +if(cells.name_3_uri.value != "NULL",
+' authority="lcna" valueURI="'+cells.name_1_uri.value + '"', "") +
+'><namePart>' + cells.name_3_name.value + '</namePart> ' +
+if (cells.name_3_role.value != "NULL" , '<role> <roleTerm> ' + cells.name_3_role.value + '</roleTerm> </role> ', "") + '</name>', "")}}
+
+
+{{ if(cells.subject_name_1_name.value != "NULL", "<subject><name " + if (cells.subject_name_1_name.value != "NULL", 'authority="lcna" valueURI="' + cells.subject_name_1_uri.value + '"', '') + "><namePart>" + cells.subject_name_1_name.value + '</namePart></name></subject>', '')}}
+
+{{ if(cells.subject_topic_1_name.value != "NULL", "<subject><topic " + if(cells.subject_topic_1_uri.value != "NULL", 'authority="lcsh" valueURI="' + cells.subject_topic_1_uri.value + '"', '') + ">" + cells.subject_topic_1_name.value + "</topic></subject>", '')}}
 
 </mods>
 
