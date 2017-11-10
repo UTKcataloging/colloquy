@@ -21,6 +21,11 @@
 <title>Colloquy</title>
 </titleInfo>
 
+<part>
+<detail type="volume"> {{cells.title_info_part.value}}
+<number></number>
+</detail>
+</part>
 
 <originInfo>
 <dateCreated encoding="edtf" keyDate="yes" point="start">
