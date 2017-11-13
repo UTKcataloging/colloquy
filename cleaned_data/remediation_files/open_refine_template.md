@@ -10,7 +10,6 @@
 ### Row Template
 
 ```
-
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">{{cells.identifier.value}}</identifier>
 
@@ -37,7 +36,7 @@
 </abstract>
 
 <physicalDescription>
-<extent unit=”pages”>4</extent>
+<extent unit="pages">4</extent>
  <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
 newsletters</form>
 <internetMediaType>application/pdf</internetMediaType>
@@ -64,7 +63,7 @@ newsletters</form>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
 </relatedItem>
 
-<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+<accessCondition type="use and reproductions" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">
 In Copyright
 </accessCondition>
 
@@ -124,8 +123,6 @@ if (cells.name_4_role.value != "NULL" , '<role> <roleTerm authority ="marcrelato
 {{ if(cells.subject_geographic_2_name.value != "NULL", '<subject><geographic authority="geonames" valueURI="' + if(cells.subject_geographic_2_uri.value != "NULL", cells.subject_geographic_2_uri.value, '') + '">' + cells.subject_geographic_2_name.value + "</geographic>" + if(cells.subject_geo_2_carto.value != "NULL", "<cartographics><coordinates>" + cells.subject_geo_2_carto.value + "</coordinates></cartographics>", "") + "</subject>", "") }}
 
 </mods>
-
-
 
 ```
 

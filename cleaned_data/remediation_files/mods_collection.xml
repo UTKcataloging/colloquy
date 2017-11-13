@@ -26,7 +26,7 @@ This issue includes articles about the launch of this newsletter, announcement o
 </abstract>
 
 <physicalDescription>
-<extent unit=”pages”>4</extent>
+<extent unit="pages">4</extent>
  <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
 newsletters</form>
 <internetMediaType>application/pdf</internetMediaType>
@@ -53,7 +53,7 @@ newsletters</form>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
 </relatedItem>
 
-<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+<accessCondition type="use and reproductions" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">
 In Copyright
 </accessCondition>
 
@@ -85,7 +85,6 @@ In Copyright
 
 
 </mods>
-
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">colloquy.1.2.pdf</identifier>
 
@@ -112,7 +111,7 @@ This issue includes articles about the Great Smoky Mountains Regional Bibliograp
 </abstract>
 
 <physicalDescription>
-<extent unit=”pages”>4</extent>
+<extent unit="pages">4</extent>
  <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
 newsletters</form>
 <internetMediaType>application/pdf</internetMediaType>
@@ -139,7 +138,7 @@ newsletters</form>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
 </relatedItem>
 
-<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+<accessCondition type="use and reproductions" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">
 In Copyright
 </accessCondition>
 
@@ -171,7 +170,6 @@ In Copyright
 
 
 </mods>
-
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">colloquy.2.1.pdf</identifier>
 
@@ -199,7 +197,7 @@ This issue includes articles about photographer Dutch Roth and other early photo
 </abstract>
 
 <physicalDescription>
-<extent unit=”pages”>4</extent>
+<extent unit="pages">4</extent>
  <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
 newsletters</form>
 <internetMediaType>application/pdf</internetMediaType>
@@ -226,7 +224,7 @@ newsletters</form>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
 </relatedItem>
 
-<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+<accessCondition type="use and reproductions" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">
 In Copyright
 </accessCondition>
 
@@ -258,7 +256,6 @@ In Copyright
 
 
 </mods>
-
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">colloquy.2.2.pdf</identifier>
 
@@ -285,7 +282,7 @@ This issue includes articles about mountaineer Paul Adams' camp on Mount Le Cont
 </abstract>
 
 <physicalDescription>
-<extent unit=”pages”>4</extent>
+<extent unit="pages">4</extent>
  <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
 newsletters</form>
 <internetMediaType>application/pdf</internetMediaType>
@@ -312,7 +309,7 @@ newsletters</form>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
 </relatedItem>
 
-<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+<accessCondition type="use and reproductions" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">
 In Copyright
 </accessCondition>
 
@@ -344,7 +341,6 @@ In Copyright
 <subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4635946/about.rdf">Le Conte, Mount</geographic><cartographics><coordinates>http://sws.geonames.org/4635946/about.rdf</coordinates></cartographics></subject>
 
 </mods>
-
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">colloquy.3.1.pdf</identifier>
 
@@ -373,7 +369,7 @@ Vicinity" as well as numerous photos from the scrapbook; and notable new books.
 </abstract>
 
 <physicalDescription>
-<extent unit=”pages”>4</extent>
+<extent unit="pages">4</extent>
  <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
 newsletters</form>
 <internetMediaType>application/pdf</internetMediaType>
@@ -400,7 +396,7 @@ newsletters</form>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
 </relatedItem>
 
-<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+<accessCondition type="use and reproductions" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">
 In Copyright
 </accessCondition>
 
@@ -432,7 +428,6 @@ In Copyright
 <subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4624443/about.rdf">Gatlinburg</geographic><cartographics><coordinates>http://sws.geonames.org/4624443/about.rdf</coordinates></cartographics></subject>
 
 </mods>
-
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">colloquy.3.2.pdf</identifier>
 
@@ -460,7 +455,7 @@ Murfree (Charles Egbert Craddock) and recent fiction set in the Smokies.
 </abstract>
 
 <physicalDescription>
-<extent unit=”pages”>4</extent>
+<extent unit="pages">4</extent>
  <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
 newsletters</form>
 <internetMediaType>application/pdf</internetMediaType>
@@ -487,7 +482,7 @@ newsletters</form>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
 </relatedItem>
 
-<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+<accessCondition type="use and reproductions" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">
 In Copyright
 </accessCondition>
 
@@ -519,7 +514,6 @@ In Copyright
 
 
 </mods>
-
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">colloquy.4.1.pdf</identifier>
 
@@ -546,7 +540,7 @@ This issue includes articles about the early years of the Smoky Mountains HIking
 </abstract>
 
 <physicalDescription>
-<extent unit=”pages”>4</extent>
+<extent unit="pages">4</extent>
  <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
 newsletters</form>
 <internetMediaType>application/pdf</internetMediaType>
@@ -573,7 +567,7 @@ newsletters</form>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
 </relatedItem>
 
-<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+<accessCondition type="use and reproductions" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">
 In Copyright
 </accessCondition>
 
@@ -605,7 +599,6 @@ In Copyright
 
 
 </mods>
-
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">colloquy.5.1.pdf</identifier>
 
@@ -632,7 +625,7 @@ This issue includes articles about the dialect spoken in the Smokies' region; a 
 </abstract>
 
 <physicalDescription>
-<extent unit=”pages”>4</extent>
+<extent unit="pages">4</extent>
  <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
 newsletters</form>
 <internetMediaType>application/pdf</internetMediaType>
@@ -659,7 +652,7 @@ newsletters</form>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
 </relatedItem>
 
-<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+<accessCondition type="use and reproductions" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">
 In Copyright
 </accessCondition>
 
@@ -691,7 +684,6 @@ In Copyright
 
 
 </mods>
-
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">colloquy.5.2.pdf</identifier>
 
@@ -719,7 +711,7 @@ Library Services digitization grant; upcoming digial collection of JIm Thompson 
 </abstract>
 
 <physicalDescription>
-<extent unit=”pages”>4</extent>
+<extent unit="pages">4</extent>
  <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
 newsletters</form>
 <internetMediaType>application/pdf</internetMediaType>
@@ -746,7 +738,7 @@ newsletters</form>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
 </relatedItem>
 
-<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+<accessCondition type="use and reproductions" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">
 In Copyright
 </accessCondition>
 
@@ -778,7 +770,6 @@ In Copyright
 <subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4624443/about.rdf">Gatlinburg</geographic><cartographics><coordinates>http://sws.geonames.org/4624443/about.rdf</coordinates></cartographics></subject>
 
 </mods>
-
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">colloquy.6.1.pdf</identifier>
 
@@ -807,7 +798,7 @@ Settlement School’s rural health care program; and Arrowmont Project staff.
 </abstract>
 
 <physicalDescription>
-<extent unit=”pages”>4</extent>
+<extent unit="pages">4</extent>
  <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
 newsletters</form>
 <internetMediaType>application/pdf</internetMediaType>
@@ -834,7 +825,7 @@ newsletters</form>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
 </relatedItem>
 
-<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+<accessCondition type="use and reproductions" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">
 In Copyright
 </accessCondition>
 
@@ -866,7 +857,6 @@ In Copyright
 
 
 </mods>
-
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">colloquy.6.2.pdf</identifier>
 
@@ -895,7 +885,7 @@ Women headquarters; and a "mystery road" near Clingman's Dome Road.
 </abstract>
 
 <physicalDescription>
-<extent unit=”pages”>4</extent>
+<extent unit="pages">4</extent>
  <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
 newsletters</form>
 <internetMediaType>application/pdf</internetMediaType>
@@ -922,7 +912,7 @@ newsletters</form>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
 </relatedItem>
 
-<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+<accessCondition type="use and reproductions" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">
 In Copyright
 </accessCondition>
 
@@ -954,7 +944,6 @@ In Copyright
 
 
 </mods>
-
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">colloquy.7.1.pdf</identifier>
 
@@ -981,7 +970,7 @@ This issue includes articles about the Pi Beta Phi Settlement School’s summer 
 </abstract>
 
 <physicalDescription>
-<extent unit=”pages”>4</extent>
+<extent unit="pages">4</extent>
  <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
 newsletters</form>
 <internetMediaType>application/pdf</internetMediaType>
@@ -1008,7 +997,7 @@ newsletters</form>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
 </relatedItem>
 
-<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+<accessCondition type="use and reproductions" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">
 In Copyright
 </accessCondition>
 
@@ -1040,7 +1029,6 @@ In Copyright
 
 
 </mods>
-
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">colloquy.7.2.pdf</identifier>
 
@@ -1068,7 +1056,7 @@ Mooney and his study of the Eastern Band of Cherokee Indians; origins of the nam
 </abstract>
 
 <physicalDescription>
-<extent unit=”pages”>4</extent>
+<extent unit="pages">4</extent>
  <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
 newsletters</form>
 <internetMediaType>application/pdf</internetMediaType>
@@ -1095,7 +1083,7 @@ newsletters</form>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
 </relatedItem>
 
-<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+<accessCondition type="use and reproductions" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">
 In Copyright
 </accessCondition>
 
@@ -1127,7 +1115,6 @@ In Copyright
 <subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4610416/about.rdf">Cades Cove</geographic><cartographics><coordinates>http://sws.geonames.org/4610416/about.rdf</coordinates></cartographics></subject>
 
 </mods>
-
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">colloquy.8.1.pdf</identifier>
 
@@ -1155,7 +1142,7 @@ National Park"; and new books.
 </abstract>
 
 <physicalDescription>
-<extent unit=”pages”>4</extent>
+<extent unit="pages">4</extent>
  <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
 newsletters</form>
 <internetMediaType>application/pdf</internetMediaType>
@@ -1182,7 +1169,7 @@ newsletters</form>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
 </relatedItem>
 
-<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+<accessCondition type="use and reproductions" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">
 In Copyright
 </accessCondition>
 
@@ -1214,7 +1201,6 @@ In Copyright
 
 
 </mods>
-
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">olloquy.8.2.pdf</identifier>
 
@@ -1243,7 +1229,7 @@ weaving exhibition; and a "mystery building in the Sugarlands".
 </abstract>
 
 <physicalDescription>
-<extent unit=”pages”>4</extent>
+<extent unit="pages">4</extent>
  <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
 newsletters</form>
 <internetMediaType>application/pdf</internetMediaType>
@@ -1270,7 +1256,7 @@ newsletters</form>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
 </relatedItem>
 
-<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+<accessCondition type="use and reproductions" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">
 In Copyright
 </accessCondition>
 
@@ -1302,7 +1288,6 @@ In Copyright
 <subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4459563/about.rdf">Cataloochee</geographic><cartographics><coordinates>35.6401, -83.08014</coordinates></cartographics></subject>
 
 </mods>
-
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">colloquy.9.1.pdf</identifier>
 
@@ -1329,7 +1314,7 @@ This issue includes articles about Abraham Lincoln's paternity; new books; and a
 </abstract>
 
 <physicalDescription>
-<extent unit=”pages”>4</extent>
+<extent unit="pages">4</extent>
  <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
 newsletters</form>
 <internetMediaType>application/pdf</internetMediaType>
@@ -1356,7 +1341,7 @@ newsletters</form>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
 </relatedItem>
 
-<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+<accessCondition type="use and reproductions" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">
 In Copyright
 </accessCondition>
 
@@ -1388,7 +1373,6 @@ In Copyright
 
 
 </mods>
-
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">colloquy.9.2.pdf</identifier>
 
@@ -1415,7 +1399,7 @@ This issue includes articles about singing schools and shape note singing; Hot p
 </abstract>
 
 <physicalDescription>
-<extent unit=”pages”>4</extent>
+<extent unit="pages">4</extent>
  <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
 newsletters</form>
 <internetMediaType>application/pdf</internetMediaType>
@@ -1442,7 +1426,7 @@ newsletters</form>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
 </relatedItem>
 
-<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+<accessCondition type="use and reproductions" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">
 In Copyright
 </accessCondition>
 
@@ -1474,7 +1458,6 @@ In Copyright
 
 
 </mods>
-
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">colloquy.10.1.pdf</identifier>
 
@@ -1502,7 +1485,7 @@ This issue includes articles about moonshine production; moonshine recipes; a re
 </abstract>
 
 <physicalDescription>
-<extent unit=”pages”>4</extent>
+<extent unit="pages">4</extent>
  <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
 newsletters</form>
 <internetMediaType>application/pdf</internetMediaType>
@@ -1529,7 +1512,7 @@ newsletters</form>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
 </relatedItem>
 
-<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+<accessCondition type="use and reproductions" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">
 In Copyright
 </accessCondition>
 
@@ -1561,7 +1544,6 @@ In Copyright
 
 
 </mods>
-
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">colloquy.10.2.pdf</identifier>
 
@@ -1590,7 +1572,7 @@ Great Smoky Mountains National Park; Dr. Elgin Kintner's panoramic photographs; 
 </abstract>
 
 <physicalDescription>
-<extent unit=”pages”>4</extent>
+<extent unit="pages">4</extent>
  <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
 newsletters</form>
 <internetMediaType>application/pdf</internetMediaType>
@@ -1617,7 +1599,7 @@ newsletters</form>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
 </relatedItem>
 
-<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+<accessCondition type="use and reproductions" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">
 In Copyright
 </accessCondition>
 
@@ -1649,7 +1631,6 @@ In Copyright
 
 
 </mods>
-
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">colloquy.11.1.pdf</identifier>
 
@@ -1676,7 +1657,7 @@ This issue includes articles about geographer Arnold Guyot’s mapping of the Sm
 </abstract>
 
 <physicalDescription>
-<extent unit=”pages”>4</extent>
+<extent unit="pages">4</extent>
  <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
 newsletters</form>
 <internetMediaType>application/pdf</internetMediaType>
@@ -1703,7 +1684,7 @@ newsletters</form>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
 </relatedItem>
 
-<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+<accessCondition type="use and reproductions" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">
 In Copyright
 </accessCondition>
 
@@ -1735,7 +1716,6 @@ In Copyright
 
 
 </mods>
-
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">colloquy.11.2.pdf</identifier>
 
@@ -1762,7 +1742,7 @@ This issue includes articles about Horace Kephart and Mount Kephart; Albert “D
 </abstract>
 
 <physicalDescription>
-<extent unit=”pages”>4</extent>
+<extent unit="pages">4</extent>
  <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
 newsletters</form>
 <internetMediaType>application/pdf</internetMediaType>
@@ -1789,7 +1769,7 @@ newsletters</form>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
 </relatedItem>
 
-<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+<accessCondition type="use and reproductions" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">
 In Copyright
 </accessCondition>
 
@@ -1821,7 +1801,6 @@ In Copyright
 <subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4474212/about.rdf">Kephart, Mount</geographic><cartographics><coordinates>35.63089, -83.38977</coordinates></cartographics></subject>
 
 </mods>
-
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">colloquy.12.1.pdf</identifier>
 
@@ -1849,7 +1828,7 @@ Gatlinburg"; new books; and updates about the Great Smoky Mountains Regional Pro
 </abstract>
 
 <physicalDescription>
-<extent unit=”pages”>4</extent>
+<extent unit="pages">4</extent>
  <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
 newsletters</form>
 <internetMediaType>application/pdf</internetMediaType>
@@ -1876,7 +1855,7 @@ newsletters</form>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
 </relatedItem>
 
-<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+<accessCondition type="use and reproductions" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">
 In Copyright
 </accessCondition>
 
@@ -1908,7 +1887,6 @@ In Copyright
 
 
 </mods>
-
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">colloquy.12.2.pdf</identifier>
 
@@ -1935,7 +1913,7 @@ This issue includes articles about Franklin Delano Roosevelt’s 1936 visit; and
 </abstract>
 
 <physicalDescription>
-<extent unit=”pages”>4</extent>
+<extent unit="pages">4</extent>
  <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
 newsletters</form>
 <internetMediaType>application/pdf</internetMediaType>
@@ -1962,7 +1940,7 @@ newsletters</form>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
 </relatedItem>
 
-<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+<accessCondition type="use and reproductions" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">
 In Copyright
 </accessCondition>
 
@@ -1994,7 +1972,6 @@ In Copyright
 
 
 </mods>
-
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">colloquy.13.1.pdf</identifier>
 
@@ -2023,7 +2000,7 @@ This issue includes the article, "Museum Bill,” Wiley Oakley, and the Search f
 </abstract>
 
 <physicalDescription>
-<extent unit=”pages”>4</extent>
+<extent unit="pages">4</extent>
  <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
 newsletters</form>
 <internetMediaType>application/pdf</internetMediaType>
@@ -2050,7 +2027,7 @@ newsletters</form>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
 </relatedItem>
 
-<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+<accessCondition type="use and reproductions" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">
 In Copyright
 </accessCondition>
 
@@ -2082,7 +2059,6 @@ In Copyright
 
 
 </mods>
-
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">colloquy.13.2.pdf</identifier>
 
@@ -2109,7 +2085,7 @@ This issue includes articles about Brigadier General Robert Vance; the new Datab
 </abstract>
 
 <physicalDescription>
-<extent unit=”pages”>4</extent>
+<extent unit="pages">4</extent>
  <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
 newsletters</form>
 <internetMediaType>application/pdf</internetMediaType>
@@ -2136,7 +2112,7 @@ newsletters</form>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
 </relatedItem>
 
-<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+<accessCondition type="use and reproductions" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">
 In Copyright
 </accessCondition>
 
@@ -2168,7 +2144,6 @@ In Copyright
 
 
 </mods>
-
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">colloquy.14.1.pdf</identifier>
 
@@ -2195,7 +2170,7 @@ This issue includes articles about Cantilever barns; a story of the 1910 explosi
 </abstract>
 
 <physicalDescription>
-<extent unit=”pages”>4</extent>
+<extent unit="pages">4</extent>
  <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
 newsletters</form>
 <internetMediaType>application/pdf</internetMediaType>
@@ -2222,7 +2197,7 @@ newsletters</form>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
 </relatedItem>
 
-<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+<accessCondition type="use and reproductions" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">
 In Copyright
 </accessCondition>
 
@@ -2254,7 +2229,6 @@ In Copyright
 <subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4494189/about.rdf">Swain (county)</geographic><cartographics><coordinates>http://sws.geonames.org/4494189/about.rdf</coordinates></cartographics></subject>
 
 </mods>
-
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">colloquy.14.2.pdf</identifier>
 
@@ -2282,7 +2256,7 @@ review of Marci Spencer's "Clingmans Dome: Highest Mountain in the Smokies"; udp
 </abstract>
 
 <physicalDescription>
-<extent unit=”pages”>4</extent>
+<extent unit="pages">4</extent>
  <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
 newsletters</form>
 <internetMediaType>application/pdf</internetMediaType>
@@ -2309,7 +2283,7 @@ newsletters</form>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
 </relatedItem>
 
-<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+<accessCondition type="use and reproductions" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">
 In Copyright
 </accessCondition>
 
@@ -2341,7 +2315,6 @@ In Copyright
 
 
 </mods>
-
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">colloquy.15.1.pdf</identifier>
 
@@ -2369,7 +2342,7 @@ in the Great Smoky Mountains"; new books; and the release of "Terra Incognita:  
 </abstract>
 
 <physicalDescription>
-<extent unit=”pages”>4</extent>
+<extent unit="pages">4</extent>
  <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
 newsletters</form>
 <internetMediaType>application/pdf</internetMediaType>
@@ -2396,7 +2369,7 @@ newsletters</form>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
 </relatedItem>
 
-<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+<accessCondition type="use and reproductions" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">
 In Copyright
 </accessCondition>
 
@@ -2428,7 +2401,6 @@ In Copyright
 
 
 </mods>
-
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">colloquy.15.2.pdf</identifier>
 
@@ -2456,7 +2428,7 @@ This issue includes articles about National Park Service officials' 1930 visit t
 </abstract>
 
 <physicalDescription>
-<extent unit=”pages”>4</extent>
+<extent unit="pages">4</extent>
  <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
 newsletters</form>
 <internetMediaType>application/pdf</internetMediaType>
@@ -2483,7 +2455,7 @@ newsletters</form>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
 </relatedItem>
 
-<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+<accessCondition type="use and reproductions" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">
 In Copyright
 </accessCondition>
 
@@ -2515,7 +2487,6 @@ In Copyright
 
 
 </mods>
-
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">colloquy.16.1.pdf</identifier>
 
@@ -2542,7 +2513,7 @@ This issue includes articles about the first settlers of the Smokies; news about
 </abstract>
 
 <physicalDescription>
-<extent unit=”pages”>4</extent>
+<extent unit="pages">4</extent>
  <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
 newsletters</form>
 <internetMediaType>application/pdf</internetMediaType>
@@ -2569,7 +2540,7 @@ newsletters</form>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
 </relatedItem>
 
-<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+<accessCondition type="use and reproductions" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">
 In Copyright
 </accessCondition>
 
@@ -2601,7 +2572,6 @@ In Copyright
 
 
 </mods>
-
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">colloquy.16.2.pdf</identifier>
 
@@ -2628,7 +2598,7 @@ This issue includes articles about The Scopes MonkeyTrial; and news about new di
 </abstract>
 
 <physicalDescription>
-<extent unit=”pages”>4</extent>
+<extent unit="pages">4</extent>
  <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
 newsletters</form>
 <internetMediaType>application/pdf</internetMediaType>
@@ -2655,7 +2625,7 @@ newsletters</form>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
 </relatedItem>
 
-<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+<accessCondition type="use and reproductions" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">
 In Copyright
 </accessCondition>
 
@@ -2687,7 +2657,6 @@ In Copyright
 
 
 </mods>
-
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">colloquy.17.1.pdf</identifier>
 
@@ -2715,7 +2684,7 @@ and His Master on Mount Le Conte"; and new books.
 </abstract>
 
 <physicalDescription>
-<extent unit=”pages”>4</extent>
+<extent unit="pages">4</extent>
  <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
 newsletters</form>
 <internetMediaType>application/pdf</internetMediaType>
@@ -2742,7 +2711,7 @@ newsletters</form>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
 </relatedItem>
 
-<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+<accessCondition type="use and reproductions" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">
 In Copyright
 </accessCondition>
 
@@ -2774,7 +2743,6 @@ In Copyright
 <subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4631228/about.rdf">Huggins Hell</geographic><cartographics><coordinates>http://sws.geonames.org/4631228/about.rdf</coordinates></cartographics></subject>
 
 </mods>
-
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">colloquy.17.2.pdf</identifier>
 
@@ -2801,7 +2769,7 @@ This issue includes articles about the Southern Appalachian Park Commission's hi
 </abstract>
 
 <physicalDescription>
-<extent unit=”pages”>4</extent>
+<extent unit="pages">4</extent>
  <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
 newsletters</form>
 <internetMediaType>application/pdf</internetMediaType>
@@ -2828,7 +2796,7 @@ newsletters</form>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
 </relatedItem>
 
-<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+<accessCondition type="use and reproductions" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">
 In Copyright
 </accessCondition>
 
@@ -2860,7 +2828,6 @@ In Copyright
 <subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4635946/about.rdf">Le Conte, Mount</geographic><cartographics><coordinates>http://sws.geonames.org/4635946/about.rdf</coordinates></cartographics></subject>
 
 </mods>
-
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">colloquy.18.1.pdf</identifier>
 
@@ -2887,7 +2854,7 @@ This issue includes articles about  syndicated columnist Ernie Pyle; and new boo
 </abstract>
 
 <physicalDescription>
-<extent unit=”pages”>4</extent>
+<extent unit="pages">4</extent>
  <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
 newsletters</form>
 <internetMediaType>application/pdf</internetMediaType>
@@ -2914,7 +2881,7 @@ newsletters</form>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
 </relatedItem>
 
-<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+<accessCondition type="use and reproductions" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">
 In Copyright
 </accessCondition>
 
@@ -2946,7 +2913,6 @@ In Copyright
 <subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4624443/about.rdf">Gatlinburg</geographic><cartographics><coordinates>http://sws.geonames.org/4624443/about.rdf</coordinates></cartographics></subject>
 
 </mods>
-
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">colloquy.18.2.pdf</identifier>
 
@@ -2973,7 +2939,7 @@ In Copyright
 </abstract>
 
 <physicalDescription>
-<extent unit=”pages”>4</extent>
+<extent unit="pages">4</extent>
  <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
 newsletters</form>
 <internetMediaType>application/pdf</internetMediaType>
@@ -3000,7 +2966,7 @@ newsletters</form>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
 </relatedItem>
 
-<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+<accessCondition type="use and reproductions" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">
 In Copyright
 </accessCondition>
 
@@ -3032,5 +2998,4 @@ In Copyright
 
 
 </mods>
-
 </modsCollection>
