@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
- <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-<identifier type="local">colloquy.1.1.pdf</identifier>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">colloquy.1.1</identifier>
 
 <titleInfo>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
@@ -86,7 +85,7 @@ In Copyright
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-<identifier type="local">colloquy.1.2.pdf</identifier>
+<identifier type="local">colloquy.1.2</identifier>
 
 <titleInfo>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
@@ -171,7 +170,7 @@ In Copyright
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-<identifier type="local">colloquy.2.1.pdf</identifier>
+<identifier type="local">colloquy.2.1</identifier>
 
 <titleInfo>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
@@ -257,7 +256,7 @@ In Copyright
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-<identifier type="local">colloquy.2.2.pdf</identifier>
+<identifier type="local">colloquy.2.2</identifier>
 
 <titleInfo>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
@@ -342,7 +341,7 @@ In Copyright
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-<identifier type="local">colloquy.3.1.pdf</identifier>
+<identifier type="local">colloquy.3.1</identifier>
 
 <titleInfo>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
@@ -429,7 +428,7 @@ In Copyright
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-<identifier type="local">colloquy.3.2.pdf</identifier>
+<identifier type="local">colloquy.3.2</identifier>
 
 <titleInfo>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
@@ -515,7 +514,7 @@ In Copyright
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-<identifier type="local">colloquy.4.1.pdf</identifier>
+<identifier type="local">colloquy.4.1</identifier>
 
 <titleInfo>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
@@ -600,7 +599,7 @@ In Copyright
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-<identifier type="local">colloquy.5.1.pdf</identifier>
+<identifier type="local">colloquy.5.1</identifier>
 
 <titleInfo>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
@@ -685,7 +684,7 @@ In Copyright
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-<identifier type="local">colloquy.5.2.pdf</identifier>
+<identifier type="local">colloquy.5.2</identifier>
 
 <titleInfo>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
@@ -771,7 +770,7 @@ In Copyright
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-<identifier type="local">colloquy.6.1.pdf</identifier>
+<identifier type="local">colloquy.6.1</identifier>
 
 <titleInfo>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
@@ -858,7 +857,7 @@ In Copyright
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-<identifier type="local">colloquy.6.2.pdf</identifier>
+<identifier type="local">colloquy.6.2</identifier>
 
 <titleInfo>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
@@ -945,7 +944,7 @@ In Copyright
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-<identifier type="local">colloquy.7.1.pdf</identifier>
+<identifier type="local">colloquy.7.1</identifier>
 
 <titleInfo>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
@@ -1030,7 +1029,7 @@ In Copyright
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-<identifier type="local">colloquy.7.2.pdf</identifier>
+<identifier type="local">colloquy.7.2</identifier>
 
 <titleInfo>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
@@ -1116,7 +1115,7 @@ In Copyright
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-<identifier type="local">colloquy.8.1.pdf</identifier>
+<identifier type="local">colloquy.8.1</identifier>
 
 <titleInfo>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
@@ -1202,7 +1201,7 @@ In Copyright
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-<identifier type="local">olloquy.8.2.pdf</identifier>
+<identifier type="local">colloquy.8.2</identifier>
 
 <titleInfo>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
@@ -1289,7 +1288,7 @@ In Copyright
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-<identifier type="local">colloquy.9.1.pdf</identifier>
+<identifier type="local">colloquy.9.1</identifier>
 
 <titleInfo>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
@@ -1374,7 +1373,7 @@ In Copyright
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-<identifier type="local">colloquy.9.2.pdf</identifier>
+<identifier type="local">colloquy.9.2</identifier>
 
 <titleInfo>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
@@ -1459,7 +1458,7 @@ In Copyright
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-<identifier type="local">colloquy.10.1.pdf</identifier>
+<identifier type="local">colloquy.10.1</identifier>
 
 <titleInfo>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
@@ -1545,7 +1544,7 @@ In Copyright
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-<identifier type="local">colloquy.10.2.pdf</identifier>
+<identifier type="local">colloquy.10.2</identifier>
 
 <titleInfo>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
@@ -1632,7 +1631,7 @@ In Copyright
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-<identifier type="local">colloquy.11.1.pdf</identifier>
+<identifier type="local">colloquy.11.1</identifier>
 
 <titleInfo>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
@@ -1717,7 +1716,7 @@ In Copyright
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-<identifier type="local">colloquy.11.2.pdf</identifier>
+<identifier type="local">colloquy.11.2</identifier>
 
 <titleInfo>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
@@ -1802,7 +1801,7 @@ In Copyright
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-<identifier type="local">colloquy.12.1.pdf</identifier>
+<identifier type="local">colloquy.12.1</identifier>
 
 <titleInfo>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
@@ -1888,7 +1887,7 @@ In Copyright
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-<identifier type="local">colloquy.12.2.pdf</identifier>
+<identifier type="local">colloquy.12.2</identifier>
 
 <titleInfo>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
@@ -1973,7 +1972,7 @@ In Copyright
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-<identifier type="local">colloquy.13.1.pdf</identifier>
+<identifier type="local">colloquy.13.1</identifier>
 
 <titleInfo>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
@@ -2060,7 +2059,7 @@ In Copyright
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-<identifier type="local">colloquy.13.2.pdf</identifier>
+<identifier type="local">colloquy.13.2</identifier>
 
 <titleInfo>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
@@ -2145,7 +2144,7 @@ In Copyright
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-<identifier type="local">colloquy.14.1.pdf</identifier>
+<identifier type="local">colloquy.14.1</identifier>
 
 <titleInfo>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
@@ -2230,7 +2229,7 @@ In Copyright
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-<identifier type="local">colloquy.14.2.pdf</identifier>
+<identifier type="local">colloquy.14.2</identifier>
 
 <titleInfo>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
@@ -2316,7 +2315,7 @@ In Copyright
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-<identifier type="local">colloquy.15.1.pdf</identifier>
+<identifier type="local">colloquy.15.1</identifier>
 
 <titleInfo>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
@@ -2402,7 +2401,7 @@ In Copyright
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-<identifier type="local">colloquy.15.2.pdf</identifier>
+<identifier type="local">colloquy.15.2</identifier>
 
 <titleInfo>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
@@ -2488,7 +2487,7 @@ In Copyright
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-<identifier type="local">colloquy.16.1.pdf</identifier>
+<identifier type="local">colloquy.16.1</identifier>
 
 <titleInfo>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
@@ -2573,7 +2572,7 @@ In Copyright
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-<identifier type="local">colloquy.16.2.pdf</identifier>
+<identifier type="local">colloquy.16.2</identifier>
 
 <titleInfo>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
@@ -2658,7 +2657,7 @@ In Copyright
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-<identifier type="local">colloquy.17.1.pdf</identifier>
+<identifier type="local">colloquy.17.1</identifier>
 
 <titleInfo>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
@@ -2744,7 +2743,7 @@ In Copyright
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-<identifier type="local">colloquy.17.2.pdf</identifier>
+<identifier type="local">colloquy.17.2</identifier>
 
 <titleInfo>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
@@ -2829,7 +2828,7 @@ In Copyright
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-<identifier type="local">colloquy.18.1.pdf</identifier>
+<identifier type="local">colloquy.18.1</identifier>
 
 <titleInfo>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
@@ -2914,7 +2913,7 @@ In Copyright
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-<identifier type="local">colloquy.18.2.pdf</identifier>
+<identifier type="local">colloquy.18.2</identifier>
 
 <titleInfo>
 <title>Great Smoky Mountains Colloquy</title></titleInfo>
@@ -2999,4 +2998,3 @@ In Copyright
 
 </mods>
 </modsCollection>
-
