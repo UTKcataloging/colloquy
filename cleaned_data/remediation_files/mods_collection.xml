@@ -1,0 +1,3036 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">colloquy.1.1.pdf</identifier>
+
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+
+<titleInfo type="alternative" displayLabel="Also known as">
+<title>Colloquy</title>
+</titleInfo>
+
+<part>
+<detail type="volume and issue"> 
+<number>Issue 1, Number 1</number>
+</detail>
+</part>
+
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">
+Sat Jan 01 00:00:00 EST 2000
+</dateCreated></originInfo>
+
+<abstract>
+This issue includes articles about the launch of this newsletter, announcement of the website, how to use the collection, and new collections.
+</abstract>
+
+<physicalDescription>
+<extent unit=”pages”>4</extent>
+ <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
+newsletters</form>
+<internetMediaType>application/pdf</internetMediaType>
+
+</physicalDescription>
+
+
+
+<location>
+<physicalLocation>University of Tennessee Knoxville. Special Collections. 
+</physicalLocation>
+</location>
+
+<language>
+<languageTerm type="code" authority="iso639-2b">eng
+</languageTerm>
+</language>
+
+<relatedItem displayLabel="Project" type="host"> 
+<location><url>https://digital.lib.utk.edu/collections/colloquy
+</url>
+</location> 
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+</relatedItem>
+
+<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+In Copyright
+</accessCondition>
+
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n95109439"><namePart>Wise, Ken</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n88651816"><namePart>Bridges, Anne</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name><namePart>Clement, Russ</namePart> <role> <roleTerm> Editor</roleTerm> </role> </name>
+
+
+
+
+
+<subject><name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n91091656"><namePart>Brewer, Carson</namePart></name></subject>
+
+<subject><name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n79103596"><namePart>Dickinson, Eleanor, 1931-</namePart></name></subject>
+
+<subject><name authority="lcna" valueURI="NULL"><namePart>Fox, Leroy G.</namePart></name></subject>
+
+<subject><name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n2004028966"><namePart>Great Smoky Mountains Regional Project</namePart></name></subject>
+
+
+
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+
+
+
+
+</mods>
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">colloquy.1.2.pdf</identifier>
+
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+
+<titleInfo type="alternative" displayLabel="Also known as">
+<title>Colloquy</title>
+</titleInfo>
+
+<part>
+<detail type="volume and issue"> 
+<number>Volume 1, Number 2</number>
+</detail>
+</part>
+
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">
+Sat Jul 01 00:00:00 EDT 2000
+</dateCreated></originInfo>
+
+<abstract>
+This issue includes articles about the Great Smoky Mountains Regional Bibliography; new collections; Lindsay Young Smokies Fund; notable books; and a spotlight on Berea College.
+</abstract>
+
+<physicalDescription>
+<extent unit=”pages”>4</extent>
+ <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
+newsletters</form>
+<internetMediaType>application/pdf</internetMediaType>
+
+</physicalDescription>
+
+
+
+<location>
+<physicalLocation>University of Tennessee Knoxville. Special Collections. 
+</physicalLocation>
+</location>
+
+<language>
+<languageTerm type="code" authority="iso639-2b">eng
+</languageTerm>
+</language>
+
+<relatedItem displayLabel="Project" type="host"> 
+<location><url>https://digital.lib.utk.edu/collections/colloquy
+</url>
+</location> 
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+</relatedItem>
+
+<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+In Copyright
+</accessCondition>
+
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n95109439"><namePart>Wise, Ken</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n88651816"><namePart>Bridges, Anne</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name><namePart>Clement, Russ</namePart> <role> <roleTerm> Editor</roleTerm> </role> </name>
+
+
+
+
+
+<subject><name authority="lcna" valueURI="http://id.loc.gov/authorities/names/no00100075"><namePart>Fry, George, 1911-</namePart></name></subject>
+
+<subject><name authority="lcna" valueURI="http://id.loc.gov/authorities/names/no2014027636"><namePart>Derris, William</namePart></name></subject>
+
+<subject><name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n50078710"><namePart>Berea College</namePart></name></subject>
+
+<subject><name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n2004028966"><namePart>Great Smoky Mountains Regional Project</namePart></name></subject>
+
+
+
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+
+
+
+
+</mods>
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">colloquy.2.1.pdf</identifier>
+
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+
+<titleInfo type="alternative" displayLabel="Also known as">
+<title>Colloquy</title>
+</titleInfo>
+
+<part>
+<detail type="volume and issue"> 
+<number>Volume 2, Number 1</number>
+</detail>
+</part>
+
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">
+Thu Mar 01 00:00:00 EST 2001
+</dateCreated></originInfo>
+
+<abstract>
+This issue includes articles about photographer Dutch Roth and other early photographers of the Great Smoky Mountains; a review of Harvey Broome's "Out Under the Sky of the Great Smokies: A Personal Journal"; and a spotlight on Pack Memorial Library in Asheville, NC. 
+.
+</abstract>
+
+<physicalDescription>
+<extent unit=”pages”>4</extent>
+ <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
+newsletters</form>
+<internetMediaType>application/pdf</internetMediaType>
+
+</physicalDescription>
+
+
+
+<location>
+<physicalLocation>University of Tennessee Knoxville. Special Collections. 
+</physicalLocation>
+</location>
+
+<language>
+<languageTerm type="code" authority="iso639-2b">eng
+</languageTerm>
+</language>
+
+<relatedItem displayLabel="Project" type="host"> 
+<location><url>https://digital.lib.utk.edu/collections/colloquy
+</url>
+</location> 
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+</relatedItem>
+
+<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+In Copyright
+</accessCondition>
+
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n95109439"><namePart>Wise, Ken</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n88651816"><namePart>Bridges, Anne</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name><namePart>Clement, Russ</namePart> <role> <roleTerm> Editor</roleTerm> </role> </name>
+
+
+
+
+
+<subject><name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n2004050214"><namePart>Roth, Albert, 1890-1974</namePart></name></subject>
+
+<subject><name authority="lcna" valueURI="NULL"><namePart>Pack Memorial Library</namePart></name></subject>
+
+
+
+
+
+
+<subject><topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00006943">Photography</topic></subject>
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+
+
+
+
+</mods>
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">colloquy.2.2.pdf</identifier>
+
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+
+<titleInfo type="alternative" displayLabel="Also known as">
+<title>Colloquy</title>
+</titleInfo>
+
+<part>
+<detail type="volume and issue"> 
+<number>Volume 2, Number 2</number>
+</detail>
+</part>
+
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">
+Wed Aug 01 00:00:00 EDT 2001
+</dateCreated></originInfo>
+
+<abstract>
+This issue includes articles about mountaineer Paul Adams' camp on Mount Le Conte; news about new manuscript additions; new books; and an upcoming documentary on photographer George Masa.
+</abstract>
+
+<physicalDescription>
+<extent unit=”pages”>4</extent>
+ <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
+newsletters</form>
+<internetMediaType>application/pdf</internetMediaType>
+
+</physicalDescription>
+
+
+
+<location>
+<physicalLocation>University of Tennessee Knoxville. Special Collections. 
+</physicalLocation>
+</location>
+
+<language>
+<languageTerm type="code" authority="iso639-2b">eng
+</languageTerm>
+</language>
+
+<relatedItem displayLabel="Project" type="host"> 
+<location><url>https://digital.lib.utk.edu/collections/colloquy
+</url>
+</location> 
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+</relatedItem>
+
+<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+In Copyright
+</accessCondition>
+
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n95109439"><namePart>Wise, Ken</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n88651816"><namePart>Bridges, Anne</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name><namePart>Clement, Russ</namePart> <role> <roleTerm> Editor</roleTerm> </role> </name>
+
+
+
+
+
+<subject><name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n84016308"><namePart>Adams, Paul J. (Paul Jay)</namePart></name></subject>
+
+<subject><name authority="lcna" valueURI="http://id.loc.gov/authorities/names/no2016078884"><namePart>Masa, George, 1881-1933</namePart></name></subject>
+
+
+
+
+
+
+
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4635946/about.rdf">Le Conte, Mount</geographic><cartographics><coordinates>http://sws.geonames.org/4635946/about.rdf</coordinates></cartographics></subject>
+
+</mods>
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">colloquy.3.1.pdf</identifier>
+
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+
+<titleInfo type="alternative" displayLabel="Also known as">
+<title>Colloquy</title>
+</titleInfo>
+
+<part>
+<detail type="volume and issue"> 
+<number>Volume 3, Number 1</number>
+</detail>
+</part>
+
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">
+Mon Apr 01 00:00:00 EST 2002
+</dateCreated></originInfo>
+
+<abstract>
+This issue includes articles about  the acquisition of Rosemary Moorehead's 1936
+scrapbook entitled "An Impression of the Pi Beta Phi Settlement School and Its
+Vicinity" as well as numerous photos from the scrapbook; and notable new books.
+</abstract>
+
+<physicalDescription>
+<extent unit=”pages”>4</extent>
+ <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
+newsletters</form>
+<internetMediaType>application/pdf</internetMediaType>
+
+</physicalDescription>
+
+
+
+<location>
+<physicalLocation>University of Tennessee Knoxville. Special Collections. 
+</physicalLocation>
+</location>
+
+<language>
+<languageTerm type="code" authority="iso639-2b">eng
+</languageTerm>
+</language>
+
+<relatedItem displayLabel="Project" type="host"> 
+<location><url>https://digital.lib.utk.edu/collections/colloquy
+</url>
+</location> 
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+</relatedItem>
+
+<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+In Copyright
+</accessCondition>
+
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n95109439"><namePart>Wise, Ken</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n88651816"><namePart>Bridges, Anne</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name><namePart>Clement, Russ</namePart> <role> <roleTerm> Editor</roleTerm> </role> </name>
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n86104319"><namePart>Waldvogel, Merikay, 1947-</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Author</roleTerm> </role> </name>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4624443/about.rdf">Gatlinburg</geographic><cartographics><coordinates>http://sws.geonames.org/4624443/about.rdf</coordinates></cartographics></subject>
+
+</mods>
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">colloquy.3.2.pdf</identifier>
+
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+
+<titleInfo type="alternative" displayLabel="Also known as">
+<title>Colloquy</title>
+</titleInfo>
+
+<part>
+<detail type="volume and issue"> 
+<number>Volume 3, Number 2</number>
+</detail>
+</part>
+
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">
+Thu Aug 01 00:00:00 EDT 2002
+</dateCreated></originInfo>
+
+<abstract>
+This issue includes articles about writer Mary Noailles
+Murfree (Charles Egbert Craddock) and recent fiction set in the Smokies.
+</abstract>
+
+<physicalDescription>
+<extent unit=”pages”>4</extent>
+ <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
+newsletters</form>
+<internetMediaType>application/pdf</internetMediaType>
+
+</physicalDescription>
+
+
+
+<location>
+<physicalLocation>University of Tennessee Knoxville. Special Collections. 
+</physicalLocation>
+</location>
+
+<language>
+<languageTerm type="code" authority="iso639-2b">eng
+</languageTerm>
+</language>
+
+<relatedItem displayLabel="Project" type="host"> 
+<location><url>https://digital.lib.utk.edu/collections/colloquy
+</url>
+</location> 
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+</relatedItem>
+
+<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+In Copyright
+</accessCondition>
+
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n95109439"><namePart>Wise, Ken</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n88651816"><namePart>Bridges, Anne</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name><namePart>Clement, Russ</namePart> <role> <roleTerm> Editor</roleTerm> </role> </name>
+
+
+
+
+
+<subject><name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n50027584"><namePart>Murfree, Mary Noailles, 1850-1922</namePart></name></subject>
+
+<subject><name authority="lcna" valueURI="http://id.loc.gov/authorities/names/no90021393"><namePart>Craddock, Charles Egbert, 1850-1922</namePart></name></subject>
+
+
+
+
+
+
+
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+
+
+
+
+</mods>
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">colloquy.4.1.pdf</identifier>
+
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+
+<titleInfo type="alternative" displayLabel="Also known as">
+<title>Colloquy</title>
+</titleInfo>
+
+<part>
+<detail type="volume and issue"> 
+<number>Volume 4, Number 1</number>
+</detail>
+</part>
+
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">
+2003-21
+</dateCreated></originInfo>
+
+<abstract>
+This issue includes articles about the early years of the Smoky Mountains HIking Club; The John E. and Mary Poitevent Redwine Endowment for the Great Smoky Mountains Regional Project; and a spotlight on the McClung Historical Collection.
+</abstract>
+
+<physicalDescription>
+<extent unit=”pages”>4</extent>
+ <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
+newsletters</form>
+<internetMediaType>application/pdf</internetMediaType>
+
+</physicalDescription>
+
+
+
+<location>
+<physicalLocation>University of Tennessee Knoxville. Special Collections. 
+</physicalLocation>
+</location>
+
+<language>
+<languageTerm type="code" authority="iso639-2b">eng
+</languageTerm>
+</language>
+
+<relatedItem displayLabel="Project" type="host"> 
+<location><url>https://digital.lib.utk.edu/collections/colloquy
+</url>
+</location> 
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+</relatedItem>
+
+<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+In Copyright
+</accessCondition>
+
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n95109439"><namePart>Wise, Ken</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n88651816"><namePart>Bridges, Anne</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name><namePart>Clement, Russ</namePart> <role> <roleTerm> Editor</roleTerm> </role> </name>
+
+
+
+
+
+<subject><name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n86844817"><namePart>Smoky Mountains Hiking Club of Knoxville</namePart></name></subject>
+
+<subject><name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n2004028966"><namePart>Great Smoky Mountains Regional Project</namePart></name></subject>
+
+<subject><name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n78034834"><namePart>McClung Historical Collection</namePart></name></subject>
+
+
+
+
+
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+
+
+
+
+</mods>
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">colloquy.5.1.pdf</identifier>
+
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+
+<titleInfo type="alternative" displayLabel="Also known as">
+<title>Colloquy</title>
+</titleInfo>
+
+<part>
+<detail type="volume and issue"> 
+<number>Volume 5, Number 1</number>
+</detail>
+</part>
+
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">
+2004-21
+</dateCreated></originInfo>
+
+<abstract>
+This issue includes articles about the dialect spoken in the Smokies' region; a new partnership with the Arrowmont School of Arts and Crafts; gift from the Aslan Foundation; a review of Carson Brewer's "A Wonderment of Mountains: The Great Smokies"; upcoming digital collection of William Cox Cochran photographs.
+</abstract>
+
+<physicalDescription>
+<extent unit=”pages”>4</extent>
+ <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
+newsletters</form>
+<internetMediaType>application/pdf</internetMediaType>
+
+</physicalDescription>
+
+<note>Volume 4, Number 2 does not exist. Volume 5, Number 1 follows Volume 4, Number 1 in the series.</note>
+
+<location>
+<physicalLocation>University of Tennessee Knoxville. Special Collections. 
+</physicalLocation>
+</location>
+
+<language>
+<languageTerm type="code" authority="iso639-2b">eng
+</languageTerm>
+</language>
+
+<relatedItem displayLabel="Project" type="host"> 
+<location><url>https://digital.lib.utk.edu/collections/colloquy
+</url>
+</location> 
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+</relatedItem>
+
+<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+In Copyright
+</accessCondition>
+
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n95109439"><namePart>Wise, Ken</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n88651816"><namePart>Bridges, Anne</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name><namePart>Clement, Russ</namePart> <role> <roleTerm> Editor</roleTerm> </role> </name>
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n81090934"><namePart>Montgomery, Michael, 1950-</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Author</roleTerm> </role> </name>
+
+
+
+<subject><name authority="lcna" valueURI="http://id.loc.gov/authorities/names/no2001080757"><namePart>Arrowmont School of Arts and Crafts</namePart></name></subject>
+
+
+
+
+
+
+
+
+
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+
+
+
+
+</mods>
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">colloquy.5.2.pdf</identifier>
+
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+
+<titleInfo type="alternative" displayLabel="Also known as">
+<title>Colloquy</title>
+</titleInfo>
+
+<part>
+<detail type="volume and issue"> 
+<number>Volume 5, Number 2</number>
+</detail>
+</part>
+
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">
+2004-23
+</dateCreated></originInfo>
+
+<abstract>
+This issue includes articles about the Phi Beta Phi Settlement School in Gatlinburg; an Institute for Museum and 
+Library Services digitization grant; upcoming digial collection of JIm Thompson Photographs; and new books. 
+</abstract>
+
+<physicalDescription>
+<extent unit=”pages”>4</extent>
+ <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
+newsletters</form>
+<internetMediaType>application/pdf</internetMediaType>
+
+</physicalDescription>
+
+
+
+<location>
+<physicalLocation>University of Tennessee Knoxville. Special Collections. 
+</physicalLocation>
+</location>
+
+<language>
+<languageTerm type="code" authority="iso639-2b">eng
+</languageTerm>
+</language>
+
+<relatedItem displayLabel="Project" type="host"> 
+<location><url>https://digital.lib.utk.edu/collections/colloquy
+</url>
+</location> 
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+</relatedItem>
+
+<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+In Copyright
+</accessCondition>
+
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n95109439"><namePart>Wise, Ken</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n88651816"><namePart>Bridges, Anne</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name><namePart>Clement, Russ</namePart> <role> <roleTerm> Editor</roleTerm> </role> </name>
+
+
+
+
+
+<subject><name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n81012318"><namePart>Pi Beta Phi</namePart></name></subject>
+
+
+
+
+
+
+
+
+
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4624443/about.rdf">Gatlinburg</geographic><cartographics><coordinates>http://sws.geonames.org/4624443/about.rdf</coordinates></cartographics></subject>
+
+</mods>
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">colloquy.6.1.pdf</identifier>
+
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+
+<titleInfo type="alternative" displayLabel="Also known as">
+<title>Colloquy</title>
+</titleInfo>
+
+<part>
+<detail type="volume and issue"> 
+<number>Volume 6, Number 1</number>
+</detail>
+</part>
+
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">
+2005-21
+</dateCreated></originInfo>
+
+<abstract>
+This issue includes articles about Phyllis Higinbotham and the origins of the Pi Beta Phi 
+Settlement School’s rural health care program; and Arrowmont Project staff.
+
+</abstract>
+
+<physicalDescription>
+<extent unit=”pages”>4</extent>
+ <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
+newsletters</form>
+<internetMediaType>application/pdf</internetMediaType>
+
+</physicalDescription>
+
+
+
+<location>
+<physicalLocation>University of Tennessee Knoxville. Special Collections. 
+</physicalLocation>
+</location>
+
+<language>
+<languageTerm type="code" authority="iso639-2b">eng
+</languageTerm>
+</language>
+
+<relatedItem displayLabel="Project" type="host"> 
+<location><url>https://digital.lib.utk.edu/collections/colloquy
+</url>
+</location> 
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+</relatedItem>
+
+<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+In Copyright
+</accessCondition>
+
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n95109439"><namePart>Wise, Ken</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n88651816"><namePart>Bridges, Anne</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name><namePart>Clement, Russ</namePart> <role> <roleTerm> Editor</roleTerm> </role> </name>
+
+
+
+
+
+<subject><name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n81012318"><namePart>Pi Beta Phi</namePart></name></subject>
+
+
+
+
+
+
+
+
+
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+
+
+
+
+</mods>
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">colloquy.6.2.pdf</identifier>
+
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+
+<titleInfo type="alternative" displayLabel="Also known as">
+<title>Colloquy</title>
+</titleInfo>
+
+<part>
+<detail type="volume and issue"> 
+<number>Volume 6, Number 2</number>
+</detail>
+</part>
+
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">
+2005-23
+</dateCreated></originInfo>
+
+<abstract>
+This issue includes articles about Winogene Redding and the PI Beta Phi Settlement School’s 
+weaving program; the “Pi Beta Phi to Arrowmont” grant team traves to Pi Beta Phi Fraternity for 
+Women headquarters; and a "mystery road" near Clingman's Dome Road.
+</abstract>
+
+<physicalDescription>
+<extent unit=”pages”>4</extent>
+ <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
+newsletters</form>
+<internetMediaType>application/pdf</internetMediaType>
+
+</physicalDescription>
+
+
+
+<location>
+<physicalLocation>University of Tennessee Knoxville. Special Collections. 
+</physicalLocation>
+</location>
+
+<language>
+<languageTerm type="code" authority="iso639-2b">eng
+</languageTerm>
+</language>
+
+<relatedItem displayLabel="Project" type="host"> 
+<location><url>https://digital.lib.utk.edu/collections/colloquy
+</url>
+</location> 
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+</relatedItem>
+
+<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+In Copyright
+</accessCondition>
+
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n95109439"><namePart>Wise, Ken</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n88651816"><namePart>Bridges, Anne</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name><namePart>Clement, Russ</namePart> <role> <roleTerm> Editor</roleTerm> </role> </name>
+
+
+
+
+
+<subject><name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n81012318"><namePart>Pi Beta Phi</namePart></name></subject>
+
+
+
+
+
+
+
+
+
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+
+
+
+
+</mods>
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">colloquy.7.1.pdf</identifier>
+
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+
+<titleInfo type="alternative" displayLabel="Also known as">
+<title>Colloquy</title>
+</titleInfo>
+
+<part>
+<detail type="volume and issue"> 
+<number>Volume 7, Number 1</number>
+</detail>
+</part>
+
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">
+2006-21
+</dateCreated></originInfo>
+
+<abstract>
+This issue includes articles about the Pi Beta Phi Settlement School’s summer workshop of crafts and community recreation; updates on Arrowmont website; and new books. 
+</abstract>
+
+<physicalDescription>
+<extent unit=”pages”>4</extent>
+ <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
+newsletters</form>
+<internetMediaType>application/pdf</internetMediaType>
+
+</physicalDescription>
+
+
+
+<location>
+<physicalLocation>University of Tennessee Knoxville. Special Collections. 
+</physicalLocation>
+</location>
+
+<language>
+<languageTerm type="code" authority="iso639-2b">eng
+</languageTerm>
+</language>
+
+<relatedItem displayLabel="Project" type="host"> 
+<location><url>https://digital.lib.utk.edu/collections/colloquy
+</url>
+</location> 
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+</relatedItem>
+
+<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+In Copyright
+</accessCondition>
+
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n95109439"><namePart>Wise, Ken</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n88651816"><namePart>Bridges, Anne</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name><namePart>Clement, Russ</namePart> <role> <roleTerm> Editor</roleTerm> </role> </name>
+
+
+
+
+
+<subject><name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n81012318"><namePart>Pi Beta Phi</namePart></name></subject>
+
+
+
+
+
+
+
+
+
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+
+
+
+
+</mods>
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">colloquy.7.2.pdf</identifier>
+
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+
+<titleInfo type="alternative" displayLabel="Also known as">
+<title>Colloquy</title>
+</titleInfo>
+
+<part>
+<detail type="volume and issue"> 
+<number>Volume 7, Number 2</number>
+</detail>
+</part>
+
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">
+2006-23
+</dateCreated></originInfo>
+
+<abstract>
+This issue includes articles about ethnologist James 
+Mooney and his study of the Eastern Band of Cherokee Indians; origins of the naming of Cades Cove and Abrams Creek; review of Charles Frazier's "Thirteen Moons"; and website updates. 
+</abstract>
+
+<physicalDescription>
+<extent unit=”pages”>4</extent>
+ <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
+newsletters</form>
+<internetMediaType>application/pdf</internetMediaType>
+
+</physicalDescription>
+
+
+
+<location>
+<physicalLocation>University of Tennessee Knoxville. Special Collections. 
+</physicalLocation>
+</location>
+
+<language>
+<languageTerm type="code" authority="iso639-2b">eng
+</languageTerm>
+</language>
+
+<relatedItem displayLabel="Project" type="host"> 
+<location><url>https://digital.lib.utk.edu/collections/colloquy
+</url>
+</location> 
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+</relatedItem>
+
+<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+In Copyright
+</accessCondition>
+
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n95109439"><namePart>Wise, Ken</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n88651816"><namePart>Bridges, Anne</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name><namePart>Clement, Russ</namePart> <role> <roleTerm> Editor</roleTerm> </role> </name>
+
+
+
+
+
+<subject><name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n50004264"><namePart>Mooney, James, 1861-1921</namePart></name></subject>
+
+<subject><name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n50024398"><namePart>Eastern Band of Cherokee Indians</namePart></name></subject>
+
+
+
+
+
+
+
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4610416/about.rdf">Cades Cove</geographic><cartographics><coordinates>http://sws.geonames.org/4610416/about.rdf</coordinates></cartographics></subject>
+
+</mods>
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">colloquy.8.1.pdf</identifier>
+
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+
+<titleInfo type="alternative" displayLabel="Also known as">
+<title>Colloquy</title>
+</titleInfo>
+
+<part>
+<detail type="volume and issue"> 
+<number>Volume 8, Number 1</number>
+</detail>
+</part>
+
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">
+2007-21
+</dateCreated></originInfo>
+
+<abstract>
+This issue includes articles about the launch of the “From Pi Beta Phi to Arrowmont” website; new Peter H. Prince Papers collection; a review of Steve Cotham's "The Great Smoky Mountains 
+National Park"; and new books.
+</abstract>
+
+<physicalDescription>
+<extent unit=”pages”>4</extent>
+ <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
+newsletters</form>
+<internetMediaType>application/pdf</internetMediaType>
+
+</physicalDescription>
+
+
+
+<location>
+<physicalLocation>University of Tennessee Knoxville. Special Collections. 
+</physicalLocation>
+</location>
+
+<language>
+<languageTerm type="code" authority="iso639-2b">eng
+</languageTerm>
+</language>
+
+<relatedItem displayLabel="Project" type="host"> 
+<location><url>https://digital.lib.utk.edu/collections/colloquy
+</url>
+</location> 
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+</relatedItem>
+
+<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+In Copyright
+</accessCondition>
+
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n95109439"><namePart>Wise, Ken</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n88651816"><namePart>Bridges, Anne</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+
+
+
+
+
+
+<subject><name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n2004028966"><namePart>Great Smoky Mountains Regional Project</namePart></name></subject>
+
+
+
+
+
+
+
+
+
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+
+
+
+
+</mods>
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">olloquy.8.2.pdf</identifier>
+
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+
+<titleInfo type="alternative" displayLabel="Also known as">
+<title>Colloquy</title>
+</titleInfo>
+
+<part>
+<detail type="volume and issue"> 
+<number>Volume 8, Number 2</number>
+</detail>
+</part>
+
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">
+2007-23
+</dateCreated></originInfo>
+
+<abstract>
+This issue includes articles about stories from Cataloochee; Thompson Brothers 
+Photograph Collection updates; Arrowmont historical 
+weaving exhibition; and a "mystery building in the Sugarlands".
+</abstract>
+
+<physicalDescription>
+<extent unit=”pages”>4</extent>
+ <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
+newsletters</form>
+<internetMediaType>application/pdf</internetMediaType>
+
+</physicalDescription>
+
+
+
+<location>
+<physicalLocation>University of Tennessee Knoxville. Special Collections. 
+</physicalLocation>
+</location>
+
+<language>
+<languageTerm type="code" authority="iso639-2b">eng
+</languageTerm>
+</language>
+
+<relatedItem displayLabel="Project" type="host"> 
+<location><url>https://digital.lib.utk.edu/collections/colloquy
+</url>
+</location> 
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+</relatedItem>
+
+<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+In Copyright
+</accessCondition>
+
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n95109439"><namePart>Wise, Ken</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n88651816"><namePart>Bridges, Anne</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4459563/about.rdf">Cataloochee</geographic><cartographics><coordinates>35.6401, -83.08014</coordinates></cartographics></subject>
+
+</mods>
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">colloquy.9.1.pdf</identifier>
+
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+
+<titleInfo type="alternative" displayLabel="Also known as">
+<title>Colloquy</title>
+</titleInfo>
+
+<part>
+<detail type="volume and issue"> 
+<number>Volume 9, Number 1</number>
+</detail>
+</part>
+
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">
+2008-21
+</dateCreated></originInfo>
+
+<abstract>
+This issue includes articles about Abraham Lincoln's paternity; new books; and a revisiting of the article, “mystery building in the Sugarlands”. 
+</abstract>
+
+<physicalDescription>
+<extent unit=”pages”>4</extent>
+ <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
+newsletters</form>
+<internetMediaType>application/pdf</internetMediaType>
+
+</physicalDescription>
+
+
+
+<location>
+<physicalLocation>University of Tennessee Knoxville. Special Collections. 
+</physicalLocation>
+</location>
+
+<language>
+<languageTerm type="code" authority="iso639-2b">eng
+</languageTerm>
+</language>
+
+<relatedItem displayLabel="Project" type="host"> 
+<location><url>https://digital.lib.utk.edu/collections/colloquy
+</url>
+</location> 
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+</relatedItem>
+
+<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+In Copyright
+</accessCondition>
+
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n95109439"><namePart>Wise, Ken</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n88651816"><namePart>Bridges, Anne</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+
+
+
+
+
+
+<subject><name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n79006779"><namePart>Lincoln, Abraham, 1809-1865</namePart></name></subject>
+
+
+
+
+
+
+
+
+
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+
+
+
+
+</mods>
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">colloquy.9.2.pdf</identifier>
+
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+
+<titleInfo type="alternative" displayLabel="Also known as">
+<title>Colloquy</title>
+</titleInfo>
+
+<part>
+<detail type="volume and issue"> 
+<number>Volume 9, Number 2</number>
+</detail>
+</part>
+
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">
+2008-23
+</dateCreated></originInfo>
+
+<abstract>
+This issue includes articles about singing schools and shape note singing; Hot pit on Guardhouse Mountain mystery; book review of Ron Rash's "Serena"; and collection update. 
+</abstract>
+
+<physicalDescription>
+<extent unit=”pages”>4</extent>
+ <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
+newsletters</form>
+<internetMediaType>application/pdf</internetMediaType>
+
+</physicalDescription>
+
+
+
+<location>
+<physicalLocation>University of Tennessee Knoxville. Special Collections. 
+</physicalLocation>
+</location>
+
+<language>
+<languageTerm type="code" authority="iso639-2b">eng
+</languageTerm>
+</language>
+
+<relatedItem displayLabel="Project" type="host"> 
+<location><url>https://digital.lib.utk.edu/collections/colloquy
+</url>
+</location> 
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+</relatedItem>
+
+<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+In Copyright
+</accessCondition>
+
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n95109439"><namePart>Wise, Ken</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n88651816"><namePart>Bridges, Anne</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n88651816"><namePart>Durman, Chris, 1964-</namePart> <role> <roleTerm> Author</roleTerm> </role> </name>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<subject><topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh88007733">Shape-note singing</topic></subject>
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+
+
+
+
+</mods>
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">colloquy.10.1.pdf</identifier>
+
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+
+<titleInfo type="alternative" displayLabel="Also known as">
+<title>Colloquy</title>
+</titleInfo>
+
+<part>
+<detail type="volume and issue"> 
+<number>Volume 10, Number 1</number>
+</detail>
+</part>
+
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">
+2009-21
+</dateCreated></originInfo>
+
+<abstract>
+This issue includes articles about moonshine production; moonshine recipes; a review of Gail Palmer's "Sacred Places of the Smokies"; and new books. 
+
+</abstract>
+
+<physicalDescription>
+<extent unit=”pages”>4</extent>
+ <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
+newsletters</form>
+<internetMediaType>application/pdf</internetMediaType>
+
+</physicalDescription>
+
+
+
+<location>
+<physicalLocation>University of Tennessee Knoxville. Special Collections. 
+</physicalLocation>
+</location>
+
+<language>
+<languageTerm type="code" authority="iso639-2b">eng
+</languageTerm>
+</language>
+
+<relatedItem displayLabel="Project" type="host"> 
+<location><url>https://digital.lib.utk.edu/collections/colloquy
+</url>
+</location> 
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+</relatedItem>
+
+<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+In Copyright
+</accessCondition>
+
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n95109439"><namePart>Wise, Ken</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n88651816"><namePart>Bridges, Anne</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<subject><topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85038527">Distilling, Illicit</topic></subject>
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+
+
+
+
+</mods>
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">colloquy.10.2.pdf</identifier>
+
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+
+<titleInfo type="alternative" displayLabel="Also known as">
+<title>Colloquy</title>
+</titleInfo>
+
+<part>
+<detail type="volume and issue"> 
+<number>Volume 10, Number 2</number>
+</detail>
+</part>
+
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">
+2009-23
+</dateCreated></originInfo>
+
+<abstract>
+This issue includes articles about the 75th Anniversary of the
+Great Smoky Mountains National Park; Dr. Elgin Kintner's panoramic photographs; a review of Horace Kephart's "Smoky Mountain Magic"; and support for the newsletter.
+
+</abstract>
+
+<physicalDescription>
+<extent unit=”pages”>4</extent>
+ <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
+newsletters</form>
+<internetMediaType>application/pdf</internetMediaType>
+
+</physicalDescription>
+
+
+
+<location>
+<physicalLocation>University of Tennessee Knoxville. Special Collections. 
+</physicalLocation>
+</location>
+
+<language>
+<languageTerm type="code" authority="iso639-2b">eng
+</languageTerm>
+</language>
+
+<relatedItem displayLabel="Project" type="host"> 
+<location><url>https://digital.lib.utk.edu/collections/colloquy
+</url>
+</location> 
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+</relatedItem>
+
+<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+In Copyright
+</accessCondition>
+
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n95109439"><namePart>Wise, Ken</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n88651816"><namePart>Bridges, Anne</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n88651816"><namePart>Brown, Margaret Lynn</namePart> <role> <roleTerm> Author</roleTerm> </role> </name>
+
+
+
+
+
+<subject><name authority="lcna" valueURI="http://id.loc.gov/authorities/names/no97050439"><namePart>Great Smoky Mountains National Park (Agency : U.S.)</namePart></name></subject>
+
+<subject><name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n92038212"><namePart>Kintner, Elgin P.</namePart></name></subject>
+
+
+
+
+
+
+<subject><topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295">Photography, Panoramic</topic></subject>
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+
+
+
+
+</mods>
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">colloquy.11.1.pdf</identifier>
+
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+
+<titleInfo type="alternative" displayLabel="Also known as">
+<title>Colloquy</title>
+</titleInfo>
+
+<part>
+<detail type="volume and issue"> 
+<number>Volume 11, Number 1</number>
+</detail>
+</part>
+
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">
+2010-21
+</dateCreated></originInfo>
+
+<abstract>
+This issue includes articles about geographer Arnold Guyot’s mapping of the Smokies; book review of Jim Casada's "Fly Fishing in the Great Smoky Mountains National Park: An Insider’s Guide to a Pursuit of Passion"; and new books.
+</abstract>
+
+<physicalDescription>
+<extent unit=”pages”>4</extent>
+ <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
+newsletters</form>
+<internetMediaType>application/pdf</internetMediaType>
+
+</physicalDescription>
+
+
+
+<location>
+<physicalLocation>University of Tennessee Knoxville. Special Collections. 
+</physicalLocation>
+</location>
+
+<language>
+<languageTerm type="code" authority="iso639-2b">eng
+</languageTerm>
+</language>
+
+<relatedItem displayLabel="Project" type="host"> 
+<location><url>https://digital.lib.utk.edu/collections/colloquy
+</url>
+</location> 
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+</relatedItem>
+
+<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+In Copyright
+</accessCondition>
+
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n95109439"><namePart>Wise, Ken</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n88651816"><namePart>Bridges, Anne</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+
+
+
+
+
+
+<subject><name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n88618776"><namePart>Guyot, A. (Arnold), 1807-1884</namePart></name></subject>
+
+
+
+
+
+
+
+
+<subject><topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85020515">Cartography</topic></subject>
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+
+
+
+
+</mods>
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">colloquy.11.2.pdf</identifier>
+
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+
+<titleInfo type="alternative" displayLabel="Also known as">
+<title>Colloquy</title>
+</titleInfo>
+
+<part>
+<detail type="volume and issue"> 
+<number>Volume 11, Number 2</number>
+</detail>
+</part>
+
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">
+2010-23
+</dateCreated></originInfo>
+
+<abstract>
+This issue includes articles about Horace Kephart and Mount Kephart; Albert “Dutch” Roth's journal, “Tales from the Woods”; and a book review of Doris Gove's "Great Smoky Mountains Trivia".
+</abstract>
+
+<physicalDescription>
+<extent unit=”pages”>4</extent>
+ <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
+newsletters</form>
+<internetMediaType>application/pdf</internetMediaType>
+
+</physicalDescription>
+
+
+
+<location>
+<physicalLocation>University of Tennessee Knoxville. Special Collections. 
+</physicalLocation>
+</location>
+
+<language>
+<languageTerm type="code" authority="iso639-2b">eng
+</languageTerm>
+</language>
+
+<relatedItem displayLabel="Project" type="host"> 
+<location><url>https://digital.lib.utk.edu/collections/colloquy
+</url>
+</location> 
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+</relatedItem>
+
+<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+In Copyright
+</accessCondition>
+
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n95109439"><namePart>Wise, Ken</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n88651816"><namePart>Bridges, Anne</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+
+
+
+
+
+
+<subject><name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n85817802"><namePart>Kephart, Horace, 1862-1931</namePart></name></subject>
+
+<subject><name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n2004050214"><namePart>Roth, Albert, 1890-1974</namePart></name></subject>
+
+
+
+
+
+
+
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4474212/about.rdf">Kephart, Mount</geographic><cartographics><coordinates>35.63089, -83.38977</coordinates></cartographics></subject>
+
+</mods>
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">colloquy.12.1.pdf</identifier>
+
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+
+<titleInfo type="alternative" displayLabel="Also known as">
+<title>Colloquy</title>
+</titleInfo>
+
+<part>
+<detail type="volume and issue"> 
+<number>Volume 12, Number 1</number>
+</detail>
+</part>
+
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">
+2011-21
+</dateCreated></originInfo>
+
+<abstract>
+This issue includes articles about Smoky Mountain place names; a book review of Howard Frank Mosher's "Walking to 
+Gatlinburg"; new books; and updates about the Great Smoky Mountains Regional Project.
+</abstract>
+
+<physicalDescription>
+<extent unit=”pages”>4</extent>
+ <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
+newsletters</form>
+<internetMediaType>application/pdf</internetMediaType>
+
+</physicalDescription>
+
+
+
+<location>
+<physicalLocation>University of Tennessee Knoxville. Special Collections. 
+</physicalLocation>
+</location>
+
+<language>
+<languageTerm type="code" authority="iso639-2b">eng
+</languageTerm>
+</language>
+
+<relatedItem displayLabel="Project" type="host"> 
+<location><url>https://digital.lib.utk.edu/collections/colloquy
+</url>
+</location> 
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+</relatedItem>
+
+<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+In Copyright
+</accessCondition>
+
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n95109439"><namePart>Wise, Ken</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n88651816"><namePart>Bridges, Anne</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n88651816"><namePart>Coggins, Allen R.</namePart> <role> <roleTerm> Author</roleTerm> </role> </name>
+
+
+
+
+
+<subject><name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n2004028966"><namePart>Great Smoky Mountains Regional Project</namePart></name></subject>
+
+
+
+
+
+
+
+
+
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+
+
+
+
+</mods>
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">colloquy.12.2.pdf</identifier>
+
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+
+<titleInfo type="alternative" displayLabel="Also known as">
+<title>Colloquy</title>
+</titleInfo>
+
+<part>
+<detail type="volume and issue"> 
+<number>Volume 12, Number 2</number>
+</detail>
+</part>
+
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">
+2011-23
+</dateCreated></originInfo>
+
+<abstract>
+This issue includes articles about Franklin Delano Roosevelt’s 1936 visit; and a review of Horace Kephart's "Camping and Woodcraft".
+</abstract>
+
+<physicalDescription>
+<extent unit=”pages”>4</extent>
+ <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
+newsletters</form>
+<internetMediaType>application/pdf</internetMediaType>
+
+</physicalDescription>
+
+
+
+<location>
+<physicalLocation>University of Tennessee Knoxville. Special Collections. 
+</physicalLocation>
+</location>
+
+<language>
+<languageTerm type="code" authority="iso639-2b">eng
+</languageTerm>
+</language>
+
+<relatedItem displayLabel="Project" type="host"> 
+<location><url>https://digital.lib.utk.edu/collections/colloquy
+</url>
+</location> 
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+</relatedItem>
+
+<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+In Copyright
+</accessCondition>
+
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n95109439"><namePart>Wise, Ken</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n88651816"><namePart>Bridges, Anne</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+
+
+
+
+
+
+<subject><name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n79022932"><namePart>Roosevelt, Franklin D. (Franklin Delano), 1882-1945</namePart></name></subject>
+
+
+
+
+
+
+
+
+
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+
+
+
+
+</mods>
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">colloquy.13.1.pdf</identifier>
+
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+
+<titleInfo type="alternative" displayLabel="Also known as">
+<title>Colloquy</title>
+</titleInfo>
+
+<part>
+<detail type="volume and issue"> 
+<number>Volume 13, Number 1</number>
+</detail>
+</part>
+
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">
+2012-21
+</dateCreated></originInfo>
+
+<abstract>
+This issue includes the article, "Museum Bill,” Wiley Oakley, and the Search for the “Quare” Salamander" and other articles about a new online collection of early Mount Le Conte photos; new books; and "Tennessee University Student".
+
+
+</abstract>
+
+<physicalDescription>
+<extent unit=”pages”>4</extent>
+ <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
+newsletters</form>
+<internetMediaType>application/pdf</internetMediaType>
+
+</physicalDescription>
+
+
+
+<location>
+<physicalLocation>University of Tennessee Knoxville. Special Collections. 
+</physicalLocation>
+</location>
+
+<language>
+<languageTerm type="code" authority="iso639-2b">eng
+</languageTerm>
+</language>
+
+<relatedItem displayLabel="Project" type="host"> 
+<location><url>https://digital.lib.utk.edu/collections/colloquy
+</url>
+</location> 
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+</relatedItem>
+
+<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+In Copyright
+</accessCondition>
+
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n95109439"><namePart>Wise, Ken</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n88651816"><namePart>Bridges, Anne</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<subject><topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85116685">Salamanders</topic></subject>
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+
+
+
+
+</mods>
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">colloquy.13.2.pdf</identifier>
+
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+
+<titleInfo type="alternative" displayLabel="Also known as">
+<title>Colloquy</title>
+</titleInfo>
+
+<part>
+<detail type="volume and issue"> 
+<number>Volume 13, Number 2</number>
+</detail>
+</part>
+
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">
+2012-23
+</dateCreated></originInfo>
+
+<abstract>
+This issue includes articles about Brigadier General Robert Vance; the new Database of the Smokies (DOTS); and a review of George Ellison's "Permanent Camp: Poems, Narratives and Renderings from the Smokies". 
+</abstract>
+
+<physicalDescription>
+<extent unit=”pages”>4</extent>
+ <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
+newsletters</form>
+<internetMediaType>application/pdf</internetMediaType>
+
+</physicalDescription>
+
+
+
+<location>
+<physicalLocation>University of Tennessee Knoxville. Special Collections. 
+</physicalLocation>
+</location>
+
+<language>
+<languageTerm type="code" authority="iso639-2b">eng
+</languageTerm>
+</language>
+
+<relatedItem displayLabel="Project" type="host"> 
+<location><url>https://digital.lib.utk.edu/collections/colloquy
+</url>
+</location> 
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+</relatedItem>
+
+<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+In Copyright
+</accessCondition>
+
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n95109439"><namePart>Wise, Ken</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n88651816"><namePart>Bridges, Anne</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+
+
+
+
+
+
+<subject><name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n96066160"><namePart>Vance, Robert B. (Robert Brank), 1828-1899</namePart></name></subject>
+
+
+
+
+
+
+
+
+
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+
+
+
+
+</mods>
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">colloquy.14.1.pdf</identifier>
+
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+
+<titleInfo type="alternative" displayLabel="Also known as">
+<title>Colloquy</title>
+</titleInfo>
+
+<part>
+<detail type="volume and issue"> 
+<number>Volume 14, Number 1</number>
+</detail>
+</part>
+
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">
+2013-21
+</dateCreated></originInfo>
+
+<abstract>
+This issue includes articles about Cantilever barns; a story of the 1910 explosion at the Swain County courthouse; Great Smoky Mountains Regional Project updates; and new books.
+</abstract>
+
+<physicalDescription>
+<extent unit=”pages”>4</extent>
+ <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
+newsletters</form>
+<internetMediaType>application/pdf</internetMediaType>
+
+</physicalDescription>
+
+
+
+<location>
+<physicalLocation>University of Tennessee Knoxville. Special Collections. 
+</physicalLocation>
+</location>
+
+<language>
+<languageTerm type="code" authority="iso639-2b">eng
+</languageTerm>
+</language>
+
+<relatedItem displayLabel="Project" type="host"> 
+<location><url>https://digital.lib.utk.edu/collections/colloquy
+</url>
+</location> 
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+</relatedItem>
+
+<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+In Copyright
+</accessCondition>
+
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n95109439"><namePart>Wise, Ken</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n88651816"><namePart>Bridges, Anne</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+
+
+
+
+
+
+<subject><name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n2004028966"><namePart>Great Smoky Mountains Regional Project</namePart></name></subject>
+
+
+
+
+
+
+
+
+<subject><topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh92006733">Cantilever barns</topic></subject>
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4494189/about.rdf">Swain (county)</geographic><cartographics><coordinates>http://sws.geonames.org/4494189/about.rdf</coordinates></cartographics></subject>
+
+</mods>
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">colloquy.14.2.pdf</identifier>
+
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+
+<titleInfo type="alternative" displayLabel="Also known as">
+<title>Colloquy</title>
+</titleInfo>
+
+<part>
+<detail type="volume and issue"> 
+<number>Volume 14, Number 2</number>
+</detail>
+</part>
+
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">
+2013-23
+</dateCreated></originInfo>
+
+<abstract>
+This issue includes articles about the Arno Cammerer and John D. Rockefeller, Jr. partnership; 
+review of Marci Spencer's "Clingmans Dome: Highest Mountain in the Smokies"; udpates about the Great Smoky Mountains Regional Project, including news about a forthcoming publication, "Terra Incognita: An Annotated Bibliography of the Great Smoky Mountains, 1544–1934".
+</abstract>
+
+<physicalDescription>
+<extent unit=”pages”>4</extent>
+ <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
+newsletters</form>
+<internetMediaType>application/pdf</internetMediaType>
+
+</physicalDescription>
+
+
+
+<location>
+<physicalLocation>University of Tennessee Knoxville. Special Collections. 
+</physicalLocation>
+</location>
+
+<language>
+<languageTerm type="code" authority="iso639-2b">eng
+</languageTerm>
+</language>
+
+<relatedItem displayLabel="Project" type="host"> 
+<location><url>https://digital.lib.utk.edu/collections/colloquy
+</url>
+</location> 
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+</relatedItem>
+
+<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+In Copyright
+</accessCondition>
+
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n95109439"><namePart>Wise, Ken</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n88651816"><namePart>Bridges, Anne</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name><namePart>McCue, Janet </namePart> <role> <roleTerm> Author</roleTerm> </role> </name>
+
+
+
+
+
+<subject><name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n84042461"><namePart>Rockefeller, John D., Jr. (John Davison), 1874-1960</namePart></name></subject>
+
+<subject><name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n2004028966"><namePart>Great Smoky Mountains Regional Project</namePart></name></subject>
+
+
+
+
+
+
+
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+
+
+
+
+</mods>
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">colloquy.15.1.pdf</identifier>
+
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+
+<titleInfo type="alternative" displayLabel="Also known as">
+<title>Colloquy</title>
+</titleInfo>
+
+<part>
+<detail type="volume and issue"> 
+<number>Volume 15, Number 1</number>
+</detail>
+</part>
+
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">
+2014-21
+</dateCreated></originInfo>
+
+<abstract>
+This issue includes articles about Herbert M. Webster photographs; review of Daniel S. Pierce's "Corn in a Jar: Moonshining 
+in the Great Smoky Mountains"; new books; and the release of "Terra Incognita:  An  Annotated  Bibliography  of  the  Great  Smoky  Mountains,  1544-1934". 
+</abstract>
+
+<physicalDescription>
+<extent unit=”pages”>4</extent>
+ <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
+newsletters</form>
+<internetMediaType>application/pdf</internetMediaType>
+
+</physicalDescription>
+
+
+
+<location>
+<physicalLocation>University of Tennessee Knoxville. Special Collections. 
+</physicalLocation>
+</location>
+
+<language>
+<languageTerm type="code" authority="iso639-2b">eng
+</languageTerm>
+</language>
+
+<relatedItem displayLabel="Project" type="host"> 
+<location><url>https://digital.lib.utk.edu/collections/colloquy
+</url>
+</location> 
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+</relatedItem>
+
+<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+In Copyright
+</accessCondition>
+
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n95109439"><namePart>Wise, Ken</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n88651816"><namePart>Bridges, Anne</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+
+
+
+
+</mods>
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">colloquy.15.2.pdf</identifier>
+
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+
+<titleInfo type="alternative" displayLabel="Also known as">
+<title>Colloquy</title>
+</titleInfo>
+
+<part>
+<detail type="volume and issue"> 
+<number>Volume 15, Number 2</number>
+</detail>
+</part>
+
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">
+2014-23
+</dateCreated></originInfo>
+
+<abstract>
+This issue includes articles about National Park Service officials' 1930 visit to the Smokies; the Wiliiam Derris slide collection; a review of Jenny Bennett's "The Twelve Streams of LeConte"; spotlight on two books, "Hiking  Trails  of  the  Great  Smoky  Mountains" and "Terra  Incognita:  An  Annotated  Bibliography  of  the  Great  Smoky  Mountains, 1544-1934".
+ 
+</abstract>
+
+<physicalDescription>
+<extent unit=”pages”>4</extent>
+ <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
+newsletters</form>
+<internetMediaType>application/pdf</internetMediaType>
+
+</physicalDescription>
+
+
+
+<location>
+<physicalLocation>University of Tennessee Knoxville. Special Collections. 
+</physicalLocation>
+</location>
+
+<language>
+<languageTerm type="code" authority="iso639-2b">eng
+</languageTerm>
+</language>
+
+<relatedItem displayLabel="Project" type="host"> 
+<location><url>https://digital.lib.utk.edu/collections/colloquy
+</url>
+</location> 
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+</relatedItem>
+
+<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+In Copyright
+</accessCondition>
+
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n95109439"><namePart>Wise, Ken</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n88651816"><namePart>Bridges, Anne</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+
+
+
+
+</mods>
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">colloquy.16.1.pdf</identifier>
+
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+
+<titleInfo type="alternative" displayLabel="Also known as">
+<title>Colloquy</title>
+</titleInfo>
+
+<part>
+<detail type="volume and issue"> 
+<number>Volume 16, Number 1</number>
+</detail>
+</part>
+
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">
+2015-21
+</dateCreated></originInfo>
+
+<abstract>
+This issue includes articles about the first settlers of the Smokies; news about new collections; and new books. 
+</abstract>
+
+<physicalDescription>
+<extent unit=”pages”>4</extent>
+ <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
+newsletters</form>
+<internetMediaType>application/pdf</internetMediaType>
+
+</physicalDescription>
+
+
+
+<location>
+<physicalLocation>University of Tennessee Knoxville. Special Collections. 
+</physicalLocation>
+</location>
+
+<language>
+<languageTerm type="code" authority="iso639-2b">eng
+</languageTerm>
+</language>
+
+<relatedItem displayLabel="Project" type="host"> 
+<location><url>https://digital.lib.utk.edu/collections/colloquy
+</url>
+</location> 
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+</relatedItem>
+
+<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+In Copyright
+</accessCondition>
+
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n95109439"><namePart>Wise, Ken</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n88651816"><namePart>Bridges, Anne</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+
+
+
+
+</mods>
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">colloquy.16.2.pdf</identifier>
+
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+
+<titleInfo type="alternative" displayLabel="Also known as">
+<title>Colloquy</title>
+</titleInfo>
+
+<part>
+<detail type="volume and issue"> 
+<number>Volume 16, Number 2</number>
+</detail>
+</part>
+
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">
+2015-23
+</dateCreated></originInfo>
+
+<abstract>
+This issue includes articles about The Scopes MonkeyTrial; and news about new digital collections. 
+</abstract>
+
+<physicalDescription>
+<extent unit=”pages”>4</extent>
+ <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
+newsletters</form>
+<internetMediaType>application/pdf</internetMediaType>
+
+</physicalDescription>
+
+
+
+<location>
+<physicalLocation>University of Tennessee Knoxville. Special Collections. 
+</physicalLocation>
+</location>
+
+<language>
+<languageTerm type="code" authority="iso639-2b">eng
+</languageTerm>
+</language>
+
+<relatedItem displayLabel="Project" type="host"> 
+<location><url>https://digital.lib.utk.edu/collections/colloquy
+</url>
+</location> 
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+</relatedItem>
+
+<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+In Copyright
+</accessCondition>
+
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n95109439"><namePart>Wise, Ken</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n88651816"><namePart>Bridges, Anne</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+
+
+
+
+</mods>
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">colloquy.17.1.pdf</identifier>
+
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+
+<titleInfo type="alternative" displayLabel="Also known as">
+<title>Colloquy</title>
+</titleInfo>
+
+<part>
+<detail type="volume and issue"> 
+<number>Volume 17, Number 1</number>
+</detail>
+</part>
+
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">
+2016-21
+</dateCreated></originInfo>
+
+<abstract>
+This issue includes articles about Huggins Hell; spotlight on new book, "Smoky Jack: The Adventures of a Dog 
+and His Master on Mount Le Conte"; and new books. 
+</abstract>
+
+<physicalDescription>
+<extent unit=”pages”>4</extent>
+ <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
+newsletters</form>
+<internetMediaType>application/pdf</internetMediaType>
+
+</physicalDescription>
+
+
+
+<location>
+<physicalLocation>University of Tennessee Knoxville. Special Collections. 
+</physicalLocation>
+</location>
+
+<language>
+<languageTerm type="code" authority="iso639-2b">eng
+</languageTerm>
+</language>
+
+<relatedItem displayLabel="Project" type="host"> 
+<location><url>https://digital.lib.utk.edu/collections/colloquy
+</url>
+</location> 
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+</relatedItem>
+
+<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+In Copyright
+</accessCondition>
+
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n95109439"><namePart>Wise, Ken</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n88651816"><namePart>Bridges, Anne</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4631228/about.rdf">Huggins Hell</geographic><cartographics><coordinates>http://sws.geonames.org/4631228/about.rdf</coordinates></cartographics></subject>
+
+</mods>
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">colloquy.17.2.pdf</identifier>
+
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+
+<titleInfo type="alternative" displayLabel="Also known as">
+<title>Colloquy</title>
+</titleInfo>
+
+<part>
+<detail type="volume and issue"> 
+<number>Volume 17, Number 2</number>
+</detail>
+</part>
+
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">
+2016-23
+</dateCreated></originInfo>
+
+<abstract>
+This issue includes articles about the Southern Appalachian Park Commission's hike up Mount Le Conte; and a review of Rose Houk's "Pictures for a Park: How Photographers Helped Save the Great Smoky Mountains". 
+</abstract>
+
+<physicalDescription>
+<extent unit=”pages”>4</extent>
+ <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
+newsletters</form>
+<internetMediaType>application/pdf</internetMediaType>
+
+</physicalDescription>
+
+
+
+<location>
+<physicalLocation>University of Tennessee Knoxville. Special Collections. 
+</physicalLocation>
+</location>
+
+<language>
+<languageTerm type="code" authority="iso639-2b">eng
+</languageTerm>
+</language>
+
+<relatedItem displayLabel="Project" type="host"> 
+<location><url>https://digital.lib.utk.edu/collections/colloquy
+</url>
+</location> 
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+</relatedItem>
+
+<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+In Copyright
+</accessCondition>
+
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n95109439"><namePart>Wise, Ken</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n88651816"><namePart>Bridges, Anne</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+
+
+
+
+
+
+<subject><name authority="lcna" valueURI="http://id.loc.gov/authorities/names/no2013090962"><namePart>United States. Southern Appalachian National Park Commission</namePart></name></subject>
+
+
+
+
+
+
+
+
+
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4635946/about.rdf">Le Conte, Mount</geographic><cartographics><coordinates>http://sws.geonames.org/4635946/about.rdf</coordinates></cartographics></subject>
+
+</mods>
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">colloquy.18.1.pdf</identifier>
+
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+
+<titleInfo type="alternative" displayLabel="Also known as">
+<title>Colloquy</title>
+</titleInfo>
+
+<part>
+<detail type="volume and issue"> 
+<number>Volume 18, Number 1</number>
+</detail>
+</part>
+
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">
+2017-21
+</dateCreated></originInfo>
+
+<abstract>
+This issue includes articles about  syndicated columnist Ernie Pyle; and new books.
+</abstract>
+
+<physicalDescription>
+<extent unit=”pages”>4</extent>
+ <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
+newsletters</form>
+<internetMediaType>application/pdf</internetMediaType>
+
+</physicalDescription>
+
+
+
+<location>
+<physicalLocation>University of Tennessee Knoxville. Special Collections. 
+</physicalLocation>
+</location>
+
+<language>
+<languageTerm type="code" authority="iso639-2b">eng
+</languageTerm>
+</language>
+
+<relatedItem displayLabel="Project" type="host"> 
+<location><url>https://digital.lib.utk.edu/collections/colloquy
+</url>
+</location> 
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+</relatedItem>
+
+<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+In Copyright
+</accessCondition>
+
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n95109439"><namePart>Wise, Ken</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n88651816"><namePart>Bridges, Anne</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+
+
+
+
+
+
+<subject><name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n79060197"><namePart>Pyle, Ernie, 1900-1945</namePart></name></subject>
+
+
+
+
+
+
+
+
+
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4624443/about.rdf">Gatlinburg</geographic><cartographics><coordinates>http://sws.geonames.org/4624443/about.rdf</coordinates></cartographics></subject>
+
+</mods>
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">colloquy.18.2.pdf</identifier>
+
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+
+<titleInfo type="alternative" displayLabel="Also known as">
+<title>Colloquy</title>
+</titleInfo>
+
+<part>
+<detail type="volume and issue"> 
+<number>Volume 18, Number 2</number>
+</detail>
+</part>
+
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes" point="start">
+2017-23
+</dateCreated></originInfo>
+
+<abstract>
+ 
+</abstract>
+
+<physicalDescription>
+<extent unit=”pages”>4</extent>
+ <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026652">
+newsletters</form>
+<internetMediaType>application/pdf</internetMediaType>
+
+</physicalDescription>
+
+
+
+<location>
+<physicalLocation>University of Tennessee Knoxville. Special Collections. 
+</physicalLocation>
+</location>
+
+<language>
+<languageTerm type="code" authority="iso639-2b">eng
+</languageTerm>
+</language>
+
+<relatedItem displayLabel="Project" type="host"> 
+<location><url>https://digital.lib.utk.edu/collections/colloquy
+</url>
+</location> 
+<titleInfo>
+<title>Great Smoky Mountains Colloquy</title></titleInfo>
+</relatedItem>
+
+<accessCondition type=”use and reproductions” xlink:href=”http://rightsstatements.org/vocab/InC/1.0/”>
+In Copyright
+</accessCondition>
+
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n95109439"><namePart>Wise, Ken</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+<name authority="lcna" valueURI="http://id.loc.gov/authorities/names/n88651816"><namePart>Bridges, Anne</namePart> <role> <roleTerm authority ="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edt.html"> Editor</roleTerm> </role> </name>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+
+
+
+
+</mods>
+
+</modsCollection>
