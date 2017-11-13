@@ -22,8 +22,8 @@
 </titleInfo>
 
 <part>
-<detail type="volume"> {{cells.title_info_part.value}}
-<number></number>
+<detail type="volume and issue"> 
+<number>{{cells.title_info_part.value}}</number>
 </detail>
 </part>
 
@@ -118,7 +118,14 @@ if (cells.name_4_role.value != "NULL" , '<role> <roleTerm authority ="marcrelato
 
 {{ if(cells.subject_topic_1_name.value != "NULL", "<subject><topic " + if(cells.subject_topic_1_uri.value != "NULL", 'authority="lcsh" valueURI="' + cells.subject_topic_1_uri.value + '"', '') + ">" + cells.subject_topic_1_name.value + "</topic></subject>", '')}}
 
+{{ if(cells.subject_geographic_1_name.value != "NULL", '<subject><geographic authority="geonames" valueURI="' + if(cells.subject_geographic_1_uri.value != "NULL", cells.subject_geographic_1_uri.value, '') + '">' + cells.subject_geographic_1_name.value + "</geographic>" + if(cells.subject_geo_1_carto.value != "NULL", "<cartographics><coordinates>" + cells.subject_geo_1_carto.value + "</coordinates></cartographics>", "") + "</subject>", "") }}
+
+
+{{ if(cells.subject_geographic_2_name.value != "NULL", '<subject><geographic authority="geonames" valueURI="' + if(cells.subject_geographic_2_uri.value != "NULL", cells.subject_geographic_2_uri.value, '') + '">' + cells.subject_geographic_2_name.value + "</geographic>" + if(cells.subject_geo_2_carto.value != "NULL", "<cartographics><coordinates>" + cells.subject_geo_2_carto.value + "</coordinates></cartographics>", "") + "</subject>", "") }}
+
 </mods>
+
+
 
 ```
 
