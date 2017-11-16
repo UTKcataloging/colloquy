@@ -83,12 +83,12 @@ In Copyright
       <geographic authority="geonames"
                   valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic>
       <cartographics>
-         <coordinates>35.58343, 83.50822</coordinates>
+         <coordinates>35.58343, -83.50822</coordinates>
       </cartographics>
    </subject>
    <subject>
       <geographic authority="geonames"
-                  valueURI="http://sws.geonames.org/4474212/about.rdf">Kephart, Mount</geographic>
+                  valueURI="http://sws.geonames.org/4474212/about.rdf">Mount Kephart</geographic>
       <cartographics>
          <coordinates>35.63089, -83.38977</coordinates>
       </cartographics>

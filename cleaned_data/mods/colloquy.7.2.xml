@@ -90,14 +90,14 @@ In Copyright
       <geographic authority="geonames"
                   valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic>
       <cartographics>
-         <coordinates>35.58343, 83.50822</coordinates>
+         <coordinates>35.58343, -83.50822</coordinates>
       </cartographics>
    </subject>
    <subject>
       <geographic authority="geonames"
                   valueURI="http://sws.geonames.org/4610416/about.rdf">Cades Cove</geographic>
       <cartographics>
-         <coordinates>http://sws.geonames.org/4610416/about.rdf</coordinates>
+         <coordinates>35.60591, -83.78128</coordinates>
       </cartographics>
    </subject>
 </mods>

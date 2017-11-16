@@ -95,7 +95,7 @@ In Copyright
       <geographic authority="geonames"
                   valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic>
       <cartographics>
-         <coordinates>35.58343, 83.50822</coordinates>
+         <coordinates>35.58343, -83.50822</coordinates>
       </cartographics>
    </subject>
 </mods>

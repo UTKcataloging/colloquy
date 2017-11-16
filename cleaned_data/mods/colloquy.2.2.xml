@@ -89,14 +89,14 @@ In Copyright
       <geographic authority="geonames"
                   valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic>
       <cartographics>
-         <coordinates>35.58343, 83.50822</coordinates>
+         <coordinates>35.58343, -83.50822</coordinates>
       </cartographics>
    </subject>
    <subject>
       <geographic authority="geonames"
-                  valueURI="http://sws.geonames.org/4635946/about.rdf">Le Conte, Mount</geographic>
+                  valueURI="http://sws.geonames.org/4635946/about.rdf">Mount Le Conte</geographic>
       <cartographics>
-         <coordinates>http://sws.geonames.org/4635946/about.rdf</coordinates>
+         <coordinates>35.65435, -83.43672</coordinates>
       </cartographics>
    </subject>
 </mods>

@@ -72,14 +72,14 @@ In Copyright
       <geographic authority="geonames"
                   valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic>
       <cartographics>
-         <coordinates>35.58343, 83.50822</coordinates>
+         <coordinates>35.58343, -83.50822</coordinates>
       </cartographics>
    </subject>
    <subject>
       <geographic authority="geonames"
                   valueURI="http://sws.geonames.org/4631228/about.rdf">Huggins Hell</geographic>
       <cartographics>
-         <coordinates>http://sws.geonames.org/4631228/about.rdf</coordinates>
+         <coordinates>35.64093, -83.43627</coordinates>
       </cartographics>
    </subject>
 </mods>
