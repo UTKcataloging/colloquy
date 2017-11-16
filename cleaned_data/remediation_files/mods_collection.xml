@@ -78,7 +78,7 @@ In Copyright
 
 
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, -83.50822</coordinates></cartographics></subject>
 
 
 
@@ -163,7 +163,7 @@ In Copyright
 
 
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, -83.50822</coordinates></cartographics></subject>
 
 
 
@@ -249,7 +249,7 @@ In Copyright
 
 <subject><topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00006943">Photography</topic></subject>
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, -83.50822</coordinates></cartographics></subject>
 
 
 
@@ -334,10 +334,10 @@ In Copyright
 
 
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, -83.50822</coordinates></cartographics></subject>
 
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4635946/about.rdf">Le Conte, Mount</geographic><cartographics><coordinates>http://sws.geonames.org/4635946/about.rdf</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4635946/about.rdf">Mount Le Conte</geographic><cartographics><coordinates>35.65435, -83.43672</coordinates></cartographics></subject>
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
@@ -421,10 +421,10 @@ In Copyright
 
 
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, -83.50822</coordinates></cartographics></subject>
 
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4624443/about.rdf">Gatlinburg</geographic><cartographics><coordinates>http://sws.geonames.org/4624443/about.rdf</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4624443/about.rdf">Gatlinburg</geographic><cartographics><coordinates>35.71453, -83.51189</coordinates></cartographics></subject>
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
@@ -507,7 +507,7 @@ In Copyright
 
 
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, -83.50822</coordinates></cartographics></subject>
 
 
 
@@ -592,7 +592,7 @@ In Copyright
 
 
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, -83.50822</coordinates></cartographics></subject>
 
 
 
@@ -677,7 +677,7 @@ In Copyright
 
 
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, -83.50822</coordinates></cartographics></subject>
 
 
 
@@ -763,10 +763,10 @@ In Copyright
 
 
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, -83.50822</coordinates></cartographics></subject>
 
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4624443/about.rdf">Gatlinburg</geographic><cartographics><coordinates>http://sws.geonames.org/4624443/about.rdf</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4624443/about.rdf">Gatlinburg</geographic><cartographics><coordinates>35.71453, -83.51189</coordinates></cartographics></subject>
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
@@ -850,7 +850,7 @@ In Copyright
 
 
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, -83.50822</coordinates></cartographics></subject>
 
 
 
@@ -937,7 +937,7 @@ In Copyright
 
 
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, -83.50822</coordinates></cartographics></subject>
 
 
 
@@ -1022,7 +1022,7 @@ In Copyright
 
 
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, -83.50822</coordinates></cartographics></subject>
 
 
 
@@ -1108,10 +1108,10 @@ In Copyright
 
 
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, -83.50822</coordinates></cartographics></subject>
 
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4610416/about.rdf">Cades Cove</geographic><cartographics><coordinates>http://sws.geonames.org/4610416/about.rdf</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4610416/about.rdf">Cades Cove</geographic><cartographics><coordinates>35.60591, -83.78128</coordinates></cartographics></subject>
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
@@ -1194,7 +1194,7 @@ In Copyright
 
 
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, -83.50822</coordinates></cartographics></subject>
 
 
 
@@ -1281,7 +1281,7 @@ In Copyright
 
 
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, -83.50822</coordinates></cartographics></subject>
 
 
 <subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4459563/about.rdf">Cataloochee</geographic><cartographics><coordinates>35.6401, -83.08014</coordinates></cartographics></subject>
@@ -1366,7 +1366,7 @@ In Copyright
 
 
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, -83.50822</coordinates></cartographics></subject>
 
 
 
@@ -1451,7 +1451,7 @@ In Copyright
 
 <subject><topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh88007733">Shape-note singing</topic></subject>
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, -83.50822</coordinates></cartographics></subject>
 
 
 
@@ -1537,7 +1537,7 @@ In Copyright
 
 <subject><topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85038527">Distilling, Illicit</topic></subject>
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, -83.50822</coordinates></cartographics></subject>
 
 
 
@@ -1624,7 +1624,7 @@ In Copyright
 
 <subject><topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295">Photography, Panoramic</topic></subject>
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, -83.50822</coordinates></cartographics></subject>
 
 
 
@@ -1709,7 +1709,7 @@ In Copyright
 
 <subject><topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85020515">Cartography</topic></subject>
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, -83.50822</coordinates></cartographics></subject>
 
 
 
@@ -1794,10 +1794,10 @@ In Copyright
 
 
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, -83.50822</coordinates></cartographics></subject>
 
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4474212/about.rdf">Kephart, Mount</geographic><cartographics><coordinates>35.63089, -83.38977</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4474212/about.rdf">Mount Kephart</geographic><cartographics><coordinates>35.63089, -83.38977</coordinates></cartographics></subject>
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
@@ -1880,7 +1880,7 @@ In Copyright
 
 
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, -83.50822</coordinates></cartographics></subject>
 
 
 
@@ -1965,7 +1965,7 @@ In Copyright
 
 
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, -83.50822</coordinates></cartographics></subject>
 
 
 
@@ -2052,7 +2052,7 @@ In Copyright
 
 <subject><topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85116685">Salamanders</topic></subject>
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, -83.50822</coordinates></cartographics></subject>
 
 
 
@@ -2137,7 +2137,7 @@ In Copyright
 
 
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, -83.50822</coordinates></cartographics></subject>
 
 
 
@@ -2222,10 +2222,10 @@ In Copyright
 
 <subject><topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh92006733">Cantilever barns</topic></subject>
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, -83.50822</coordinates></cartographics></subject>
 
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4494189/about.rdf">Swain (county)</geographic><cartographics><coordinates>http://sws.geonames.org/4494189/about.rdf</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4494189/about.rdf">Swain (county)</geographic><cartographics><coordinates>35.48673, -83.49274</coordinates></cartographics></subject>
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
@@ -2308,7 +2308,7 @@ In Copyright
 
 
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, -83.50822</coordinates></cartographics></subject>
 
 
 
@@ -2394,7 +2394,7 @@ In Copyright
 
 
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, -83.50822</coordinates></cartographics></subject>
 
 
 
@@ -2480,7 +2480,7 @@ In Copyright
 
 
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, -83.50822</coordinates></cartographics></subject>
 
 
 
@@ -2565,7 +2565,7 @@ In Copyright
 
 
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, -83.50822</coordinates></cartographics></subject>
 
 
 
@@ -2650,7 +2650,7 @@ In Copyright
 
 
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, -83.50822</coordinates></cartographics></subject>
 
 
 
@@ -2736,10 +2736,10 @@ In Copyright
 
 
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, -83.50822</coordinates></cartographics></subject>
 
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4631228/about.rdf">Huggins Hell</geographic><cartographics><coordinates>http://sws.geonames.org/4631228/about.rdf</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4631228/about.rdf">Huggins Hell</geographic><cartographics><coordinates>35.64093, -83.43627</coordinates></cartographics></subject>
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
@@ -2821,10 +2821,10 @@ In Copyright
 
 
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, -83.50822</coordinates></cartographics></subject>
 
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4635946/about.rdf">Le Conte, Mount</geographic><cartographics><coordinates>http://sws.geonames.org/4635946/about.rdf</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4635946/about.rdf">Mount Le Conte</geographic><cartographics><coordinates>35.65435, -83.43672</coordinates></cartographics></subject>
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
@@ -2906,10 +2906,10 @@ In Copyright
 
 
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, -83.50822</coordinates></cartographics></subject>
 
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4624443/about.rdf">Gatlinburg</geographic><cartographics><coordinates>http://sws.geonames.org/4624443/about.rdf</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4624443/about.rdf">Gatlinburg</geographic><cartographics><coordinates>35.71453, -83.51189</coordinates></cartographics></subject>
 
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
@@ -2991,7 +2991,7 @@ In Copyright
 
 
 
-<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, 83.50822</coordinates></cartographics></subject>
+<subject><geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic><cartographics><coordinates>35.58343, -83.50822</coordinates></cartographics></subject>
 
 
 
