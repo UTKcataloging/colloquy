@@ -51,10 +51,10 @@ newsletters</form>
          <title>Great Smoky Mountains Colloquy</title>
       </titleInfo>
    </relatedItem>
-   <accessCondition type="use and reproductions"
+   <accessCondition type="use and reproduction"
                     xlink:href="http://rightsstatements.org/vocab/InC/1.0/">
-In Copyright
-</accessCondition>
+            In Copyright
+        </accessCondition>
    <name authority="lcna"
          valueURI="http://id.loc.gov/authorities/names/n95109439">
       <namePart>Wise, Ken</namePart>
